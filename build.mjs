@@ -530,6 +530,11 @@ Sitemap: ${absoluteUrl('sitemap.xml')}
 
   fs.writeFileSync(path.join(outputRoot, 'sitemap.xml'), sitemap, 'utf8');
   fs.writeFileSync(path.join(outputRoot, 'robots.txt'), robots, 'utf8');
+  fs.writeFileSync(
+    path.join(outputRoot, 'googlebe253e06414c0f4b.html'),
+    'google-site-verification: googlebe253e06414c0f4b.html\n',
+    'utf8',
+  );
 }
 
 ensureCleanOutput();
