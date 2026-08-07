@@ -535,6 +535,11 @@ Sitemap: ${absoluteUrl('sitemap.xml')}
     'google-site-verification: googlebe253e06414c0f4b.html\n',
     'utf8',
   );
+  fs.writeFileSync(
+    path.join(outputRoot, 'naver901b9a28925ada282542f990d89bd571.html'),
+    'naver-site-verification: naver901b9a28925ada282542f990d89bd571.html\n',
+    'utf8',
+  );
 }
 
 ensureCleanOutput();
