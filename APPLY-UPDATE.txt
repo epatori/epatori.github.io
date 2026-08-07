@@ -1,0 +1,16 @@
+Scriptorium 업데이트 적용법
+===========================
+
+1. VS Code 터미널에서 Ctrl + C를 눌러 미리보기를 끕니다.
+2. 이 ZIP의 압축을 풉니다.
+3. 압축 안의 build.mjs, README.md, START-HERE.txt, source 폴더를
+   기존 dark-water-review-blog 폴더 안에 복사합니다.
+4. 같은 파일이 있다고 나오면 "대상 폴더의 파일 덮어쓰기"를 선택합니다.
+5. VS Code 터미널에서 다음을 실행합니다.
+
+   node preview.mjs
+
+6. 브라우저에서 Ctrl + F5를 누릅니다.
+
+※ site.config.json은 포함하지 않았습니다.
+   기존 저자명과 개인 설정은 유지됩니다.

@@ -1,0 +1,23 @@
+SCRIPTORIUM — FIRST GITHUB PAGES DEPLOY
+========================================
+
+Final URL:
+https://epatori.github.io/
+
+1. Keep this project as the local repository folder.
+2. Open it in GitHub Desktop.
+3. Repository -> Repository settings (or Publish repository) and connect it to:
+   https://github.com/epatori/epatori.github.io
+4. Commit all source files to branch: main
+5. Push origin.
+6. On GitHub.com open:
+   epatori/epatori.github.io -> Settings -> Pages
+7. Under Build and deployment, set Source to: GitHub Actions
+8. Open the Actions tab and confirm "Deploy to GitHub Pages" completes successfully.
+9. Visit https://epatori.github.io/
+
+Notes
+-----
+- Do not manually upload the generated site/ directory. It is ignored by Git and built by GitHub Actions.
+- Never commit .env files, keys, tokens, passwords, or private documents.
+- The build automatically creates robots.txt and sitemap.xml for https://epatori.github.io/.
