@@ -7,7 +7,7 @@ const sourceRoot = path.join(projectRoot, 'source');
 const outputRoot = path.join(projectRoot, 'site');
 const reviewRoot = path.join(sourceRoot, 'reviews');
 const config = JSON.parse(fs.readFileSync(path.join(projectRoot, 'site.config.json'), 'utf8'));
-const siteName = 'Scriptorium';
+const siteName = String(config.name || 'Pensive');
 const siteDescription = '오덕겜창의 리뷰 공간';
 const siteUrl = String(config.url || 'https://epatori.github.io/').replace(/\/+$/, '') + '/';
 
@@ -200,11 +200,12 @@ function normalizeMedia(value = '') {
     ['GAME', '게임'], ['게임', '게임'],
     ['ANIME', '애니'], ['애니', '애니'], ['애니메이션', '애니'],
     ['WEBTOON', '웹툰'], ['웹툰', '웹툰'],
-    ['NOVEL', '소설'], ['소설', '소설'],
+    ['NOVEL', '웹소설'], ['WEB NOVEL', '웹소설'], ['WEBNOVEL', '웹소설'], ['소설', '웹소설'], ['웹소설', '웹소설'],
     ['MANGA', '만화'], ['COMIC', '만화'], ['만화', '만화'],
     ['MOVIE', '영화'], ['FILM', '영화'], ['영화', '영화'],
-    ['DRAMA', '드라마'], ['드라마', '드라마'],
-    ['NETFLIX', '넷플릭스'], ['넷플릭스', '넷플릭스'],
+    ['DRAMA', '시리즈'], ['드라마', '시리즈'],
+    ['NETFLIX', '시리즈'], ['넷플릭스', '시리즈'],
+    ['SERIES', '시리즈'], ['TV', '시리즈'], ['시리즈', '시리즈'],
     ['MUSICAL', '뮤지컬'], ['뮤지컬', '뮤지컬'],
     ['THEATER', '연극'], ['PLAY', '연극'], ['연극', '연극'],
     ['TRAVEL', '여행'], ['여행', '여행'],
@@ -226,7 +227,6 @@ function readReviews() {
       const raw = fs.readFileSync(path.join(reviewRoot, name), 'utf8');
       const { data, content } = parseFrontmatter(raw);
       const image = extractFirstImage(content);
-      if (/^images\/cover-.*\.svg$/i.test(image.src)) image.src = 'images/temp.jpg';
       return {
         slug: data.slug || name.replace(/\.md$/, ''),
         title: data.title || name.replace(/\.md$/, ''),
@@ -322,7 +322,6 @@ function card(review, { href, imagePrefix, compact = false, current = false }) {
   return `<${tag} class="review-card${compact ? ' compact' : ''}${current ? ' current' : ''}" data-media-category="${escapeHtml(review.media)}"${hrefAttr}${currentAttr}>
     <div class="image-frame">
       <img src="${imagePrefix}${escapeHtml(review.image.src)}" alt="${escapeHtml(review.image.alt)}" loading="lazy" draggable="false" style="object-position:${escapeHtml(review.imagePosition)}">
-      <span class="thumbnail-title" aria-hidden="true">${escapeHtml(review.title)}</span>
     </div>
     <div class="card-copy">
       <p class="eyebrow">${escapeHtml(review.category)} · ${escapeHtml(formatDate(review.date))}</p>
@@ -330,6 +329,18 @@ function card(review, { href, imagePrefix, compact = false, current = false }) {
       ${!compact && review.summary ? `<p class="summary">${escapeHtml(review.summary)}</p>` : ''}
     </div>
   </${tag}>`;
+}
+
+function currentlyPlayingCard(review) {
+  return `<a class="currently-playing-card" href="./${review.slug}/">
+    <div class="currently-playing-frame">
+      <img src="../${escapeHtml(review.image.src)}" alt="${escapeHtml(review.image.alt)}" loading="eager" draggable="false" style="object-position:${escapeHtml(review.imagePosition)}">
+    </div>
+    <div class="currently-playing-copy">
+      <p class="eyebrow">${escapeHtml(review.category)}</p>
+      <h2>${escapeHtml(review.title)}</h2>
+    </div>
+  </a>`;
 }
 
 function footer() {
@@ -380,17 +391,26 @@ function buildCatalog(reviews) {
     href: `./${review.slug}/`,
     imagePrefix: '../',
   })).join('\n');
-  const filters = ['모두보기', '애니', '웹툰', '게임', '소설', '만화', '영화', '드라마', '넷플릭스', '뮤지컬', '연극', '여행']
+  const currentPlayingSlugs = ['beast-of-reincarnation', 'dragons-dogma-2'];
+  const currentPlayingCards = currentPlayingSlugs
+    .map((slug) => reviews.find((review) => review.slug === slug))
+    .filter(Boolean)
+    .map(currentlyPlayingCard)
+    .join('\n');
+  const filters = ['모두보기', '애니', '웹툰', '게임', '웹소설', '만화', '영화', '시리즈', '뮤지컬', '연극', '여행']
     .map((label, index) => `<button type="button" class="filter-button${index === 0 ? ' is-active' : ''}" data-filter="${escapeHtml(label)}" aria-pressed="${index === 0 ? 'true' : 'false'}">${escapeHtml(label)}</button>`)
     .join('');
-  const body = `<div class="catalog-top-space" aria-hidden="true"></div>
-  <main class="catalog">
+  const body = `<main class="catalog">
     <header class="catalog-heading">
       <p class="kicker">records of my life</p>
-      <h1>Scriptorium</h1>
+      <h1>Pensive</h1>
       <p class="intro">${escapeHtml(siteDescription)}</p>
       <nav class="filter-bar" aria-label="매체별 리뷰 필터">${filters}</nav>
     </header>
+    <section class="currently-playing" aria-labelledby="currently-playing-title">
+      <p class="currently-playing-title" id="currently-playing-title">Currently Playing:</p>
+      <div class="currently-playing-grid">${currentPlayingCards}</div>
+    </section>
     <section class="review-grid" aria-label="리뷰 목록" data-review-grid>${cards}</section>
     <nav class="pagination" data-pagination aria-label="리뷰 페이지" hidden></nav>
     <p class="filter-empty" data-filter-empty hidden>아직 이 분류에 들어갈 기록이 없습니다.</p>

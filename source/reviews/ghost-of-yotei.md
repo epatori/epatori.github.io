@@ -8,7 +8,7 @@ summary: "전작보다는 고증을 잘 한 거 같다. 하지만 전작을 해�
 imagePosition: "50% 50%"
 ---
 
-![Ghost of Yotei 표지](images/cover-ghost-of-yotei.svg)
+![Ghost of Yotei 표지](images/ghost-of-yotei.jpg)
 
 **강추.**
 

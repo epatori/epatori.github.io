@@ -8,7 +8,7 @@ summary: "만족합니다. RTX 3090. 4K fps 60정도 뽑습니다. 온도는 평
 imagePosition: "50% 50%"
 ---
 
-![Wuchang Fallen Feathers 표지](images/cover-wuchang-fallen-feathers.svg)
+![Wuchang Fallen Feathers 표지](images/wuchang-fallen-feathers.jpg)
 
 **추천.**
 

@@ -8,7 +8,7 @@ summary: "아예 재미없는 게임은 아닙니다. 플레이하는 동안 어
 imagePosition: "50% 50%"
 ---
 
-![Avowed 표지](images/cover-avowed.svg)
+![Avowed 표지](images/avowed.jpg)
 
 **비추천.**
 

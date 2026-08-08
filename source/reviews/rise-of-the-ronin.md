@@ -8,7 +8,7 @@ summary: "액션은 팀닌자 모든 게임의 정점이라고 생각한다. 적
 imagePosition: "50% 50%"
 ---
 
-![Rise of the Ronin 표지](images/cover-rise-of-the-ronin.svg)
+![Rise of the Ronin 표지](images/rise-of-the-ronin.jpg)
 
 **강추.**
 

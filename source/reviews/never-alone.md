@@ -8,7 +8,7 @@ summary: "이누피아트의 전통 설화를 바탕으로 한 이야기가 매�
 imagePosition: "50% 50%"
 ---
 
-![Never Alone 표지](images/cover-never-alone.svg)
+![Never Alone 표지](images/never-alone.jpg)
 
 **추천.**
 

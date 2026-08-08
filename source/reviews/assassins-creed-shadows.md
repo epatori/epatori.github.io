@@ -8,7 +8,7 @@ summary: "플레이 자체는 재미있습니다. 하지만 내러티브는 많�
 imagePosition: "50% 50%"
 ---
 
-![Assassin's Creed Shadows 표지](images/cover-assassins-creed-shadows.svg)
+![Assassin's Creed Shadows 표지](images/assassins-creed-shadows.jpg)
 
 **추천.**
 

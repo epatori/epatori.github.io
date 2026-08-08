@@ -8,7 +8,7 @@ summary: "몽환적인 분위기를 재현하는 능력은 훌륭합니다. 화�
 imagePosition: "50% 50%"
 ---
 
-![Limbo 표지](images/cover-limbo.svg)
+![Limbo 표지](images/limbo.jpg)
 
 **비추천.**
 

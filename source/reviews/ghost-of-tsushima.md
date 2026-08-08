@@ -8,7 +8,7 @@ summary: "철저한 고증을 기대했으나 개판이다. 대마도가 워낙 
 imagePosition: "50% 50%"
 ---
 
-![Ghost of Tsushima 표지](images/cover-ghost-of-tsushima.svg)
+![Ghost of Tsushima 표지](images/ghost-of-tsushima.jpg)
 
 **강추.**
 

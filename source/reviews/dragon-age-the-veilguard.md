@@ -8,7 +8,7 @@ summary: "끔찍할 거라는 예상은 했습니다. 그래도 프랜차이즈�
 imagePosition: "50% 50%"
 ---
 
-![Dragon Age The Veilguard 표지](images/cover-dragon-age-the-veilguard.svg)
+![Dragon Age The Veilguard 표지](images/dragon-age-veilguard.jpg)
 
 **비추천.**
 

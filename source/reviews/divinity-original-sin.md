@@ -8,7 +8,7 @@ summary: "전투 시스템이 훌륭합니다. 여러 요소를 조합하고 상
 imagePosition: "50% 50%"
 ---
 
-![Divinity Original Sin 표지](images/cover-divinity-original-sin.svg)
+![Divinity Original Sin 표지](images/divinity-original-sin.jpg)
 
 **추천.**
 

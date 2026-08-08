@@ -8,7 +8,7 @@ summary: "원작의 가장 큰 장점이던 전투는 더 좋아졌습니다. �
 imagePosition: "50% 50%"
 ---
 
-![Divinity Original Sin Enhanced Edition 표지](images/cover-divinity-original-sin-enhanced-edition.svg)
+![Divinity Original Sin Enhanced Edition 표지](images/divinity-os-ee.jpg)
 
 **추천.**
 

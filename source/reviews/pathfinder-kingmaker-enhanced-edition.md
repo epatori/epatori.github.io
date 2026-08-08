@@ -8,7 +8,7 @@ summary: "초기판을 망가뜨렸던 게임 진행 불가급 버그들은 대�
 imagePosition: "50% 50%"
 ---
 
-![Pathfinder Kingmaker Enhanced Edition 표지](images/cover-pathfinder-kingmaker-enhanced-edition.svg)
+![Pathfinder Kingmaker Enhanced Edition 표지](images/pathfinder-kingmaker-ee.jpg)
 
 **강추.**
 

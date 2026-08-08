@@ -8,7 +8,7 @@ summary: "번역부터 UI, 퀘스트 구성, 선택지와 스토리까지 어느
 imagePosition: "50% 50%"
 ---
 
-![Tales of Hongyuan 표지](images/cover-tales-of-hongyuan.svg)
+![Tales of Hongyuan 표지](images/tales-of-hongyuan.jpg)
 
 **비추.**
 

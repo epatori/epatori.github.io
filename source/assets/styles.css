@@ -1,4 +1,5 @@
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap");
 
 :root {
   color-scheme: dark;
@@ -172,12 +173,25 @@ a.review-card:focus-visible { outline:2px solid rgba(255,255,255,.8); outline-of
 .image-frame { position:relative; overflow:hidden; aspect-ratio:4/5; background:var(--night-soft); isolation:isolate; }
 .image-frame::after { content:""; position:absolute; z-index:1; inset:0; pointer-events:none; background:linear-gradient(to top,rgba(4,5,8,.92) 0%,rgba(4,5,8,.40) 34%,rgba(4,5,8,.10) 68%,rgba(4,5,8,.24) 100%); }
 .image-frame img { width:100%; height:100%; object-fit:cover; opacity:.62; filter:saturate(.82) contrast(1.04); transition:transform 500ms ease,opacity 300ms ease,filter 300ms ease; }
-.thumbnail-title { position:absolute; z-index:2; left:clamp(14px,5%,24px); right:clamp(14px,5%,24px); bottom:clamp(16px,6%,28px); color:#f4f4f0; font-family:"Pretendard Variable",Pretendard,system-ui,sans-serif; font-size:clamp(1rem,3.3vw,1.55rem); font-weight:620; line-height:1.16; letter-spacing:-.035em; text-wrap:balance; word-break:keep-all; text-shadow:0 2px 18px rgba(0,0,0,.66); pointer-events:none; }
 a.review-card:hover img { transform:scale(1.035); opacity:.78; filter:saturate(.96) contrast(1.06); }
 .card-copy { padding:13px 2px 10px; }
 .eyebrow { margin:0 0 7px; color:var(--muted); font-size:.66rem; letter-spacing:.08em; text-transform:uppercase; }
 .review-card h2 { margin:0; font-size:clamp(1rem,2.8vw,1.32rem); font-weight:560; line-height:1.34; word-break:keep-all; }
 .summary { display:-webkit-box; margin:10px 0 0; overflow:hidden; color:#a9adba; font-size:.86rem; line-height:1.55; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+
+/* Currently Playing */
+.currently-playing { max-width:980px; margin:0 auto 68px; }
+.currently-playing-title { margin:0 0 16px; color:#b5b9c4; font-family:ui-serif, Georgia, "Noto Serif KR", serif; font-size:clamp(1.05rem,2.5vw,1.35rem); letter-spacing:.01em; }
+.currently-playing-grid { display:grid; grid-template-columns:1fr; gap:24px; }
+.currently-playing-card { display:block; min-width:0; color:inherit; text-decoration:none; transition:transform 180ms ease; }
+.currently-playing-card:hover, .currently-playing-card:focus-visible { transform:translateY(-3px); }
+.currently-playing-card:focus-visible { outline:2px solid rgba(255,255,255,.8); outline-offset:5px; }
+.currently-playing-frame { position:relative; overflow:hidden; aspect-ratio:460/215; background:var(--night-soft); isolation:isolate; }
+.currently-playing-frame::after { content:""; position:absolute; z-index:1; inset:0; pointer-events:none; background:linear-gradient(to top,rgba(4,5,8,.62) 0%,rgba(4,5,8,.10) 58%,rgba(4,5,8,.20) 100%); }
+.currently-playing-frame img { width:100%; height:100%; object-fit:cover; opacity:.72; filter:saturate(.84) contrast(1.04); transition:transform 500ms ease,opacity 300ms ease,filter 300ms ease; }
+.currently-playing-card:hover img, .currently-playing-card:focus-visible img { transform:scale(1.025); opacity:.9; filter:saturate(.98) contrast(1.05); }
+.currently-playing-copy { padding:12px 2px 0; }
+.currently-playing-copy h2 { margin:0; font-size:clamp(1.05rem,2.8vw,1.28rem); font-weight:560; line-height:1.3; word-break:keep-all; }
 
 /* Article */
 .article-page { background:var(--night); }
@@ -221,7 +235,9 @@ a.review-card:hover img { transform:scale(1.035); opacity:.78; filter:saturate(.
   .site-header { min-height:88px; padding-inline:40px; }
   .site-footer { padding-bottom:56px; }
   .catalog { padding:72px 40px 130px; }
-  .catalog-heading { margin-bottom:82px; }
+  .catalog-heading { margin-bottom:72px; }
+  .currently-playing { margin-bottom:92px; }
+  .currently-playing-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:22px; }
   .review-grid { grid-template-columns:repeat(3,minmax(0,1fr)); gap:54px 22px; }
   .hero-shell, .hero { height:80vh; min-height:560px; }
   .back-link { top:34px; left:40px; }
@@ -235,11 +251,7 @@ a.review-card:hover img { transform:scale(1.035); opacity:.78; filter:saturate(.
 @media (min-width:1120px) { .review-grid { grid-template-columns:repeat(4,minmax(0,1fr)); } }
 @media (prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior:auto !important; transition-duration:.01ms !important; animation-duration:.01ms !important; } }
 
-/* Scriptorium catalog refinements */
-.catalog-top-space {
-  height: 72px;
-  background: var(--night);
-}
+/* Pensive catalog refinements */
 .catalog-heading h1 {
   font-size: clamp(3rem, 14vw, 8rem);
   line-height: .9;
@@ -340,18 +352,20 @@ a.review-card:hover img { transform:scale(1.035); opacity:.78; filter:saturate(.
   left: 0;
   top: 0;
   pointer-events: none;
-  color: rgba(220, 233, 247, .66);
-  font-family: "Pretendard Variable", Pretendard, system-ui, sans-serif;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1.35px rgba(220, 233, 247, .72);
+  font-family: "Gowun Batang", "Noto Serif KR", Batang, serif;
   font-size: clamp(2.85rem, 7vw, 4.15rem);
-  font-weight: 590;
+  font-weight: 700;
   line-height: .95;
-  letter-spacing: .075em;
+  letter-spacing: .11em;
   text-shadow:
-    0 0 2px rgba(236, 246, 255, .4),
-    0 0 34px rgba(120, 164, 207, .46),
-    0 0 86px rgba(67, 109, 153, .24);
+    0 0 2px rgba(236, 246, 255, .28),
+    0 0 30px rgba(120, 164, 207, .38),
+    0 0 76px rgba(67, 109, 153, .20);
   transform: translate(-50%, -50%) translateY(8px);
-  animation: ambient-word-fade 6.8s cubic-bezier(.22,.61,.36,1) forwards;
+  animation: ambient-word-fade 5.44s cubic-bezier(.22,.61,.36,1) forwards;
   white-space: nowrap;
   will-change: opacity, filter, transform;
 }
@@ -359,7 +373,7 @@ a.review-card:hover img { transform:scale(1.035); opacity:.78; filter:saturate(.
   display: block;
   transform: scale(.82);
   transform-origin: center;
-  animation: ambient-word-scale 6.8s linear forwards;
+  animation: ambient-word-scale 5.44s linear forwards;
   will-change: transform;
 }
 @keyframes ambient-word-fade {
@@ -421,10 +435,6 @@ a.review-card:hover img { transform:scale(1.035); opacity:.78; filter:saturate(.
     letter-spacing: -.038em;
   }
 }
-@media (min-width:760px) {
-  .catalog-top-space { height: 88px; }
-}
-
 
 /* Centered catalog header */
 .catalog-heading { text-align: center; }

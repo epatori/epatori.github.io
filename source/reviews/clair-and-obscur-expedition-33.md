@@ -8,7 +8,7 @@ summary: "일단 전체적으로는 서양 인디겜의 탈을 쓴 JRPG입니다
 imagePosition: "50% 50%"
 ---
 
-![Clair & Obscur: Expedition 33 표지](images/cover-clair-and-obscur-expedition-33.svg)
+![Clair & Obscur: Expedition 33 표지](images/clair-obscur-33.jpg)
 
 **추천.**
 

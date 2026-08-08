@@ -8,7 +8,7 @@ summary: "(1) 그래픽: + GTX 1080에서 최고 세팅으로 60~100 FPS 나옵�
 imagePosition: "50% 50%"
 ---
 
-![Assassin's Creed Origins 표지](images/cover-assassins-creed-origins.svg)
+![Assassin's Creed Origins 표지](images/assassins-creed-origins.jpg)
 
 **추천.**
 

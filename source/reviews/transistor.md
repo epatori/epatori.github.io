@@ -8,7 +8,7 @@ summary: "세계관이 매혹적입니다. 많은 정보를 장황하게 설명�
 imagePosition: "50% 50%"
 ---
 
-![Transistor 표지](images/cover-transistor.svg)
+![Transistor 표지](images/transistor.jpg)
 
 **추천.**
 

@@ -8,7 +8,7 @@ summary: "액션 하나만 잘한 게임이 아닙니다. 스토리, 로어, 캐
 imagePosition: "50% 50%"
 ---
 
-![Elden Ring 표지](images/cover-elden-ring.svg)
+![Elden Ring 표지](images/elden-ring.jpg)
 
 **강추.**
 

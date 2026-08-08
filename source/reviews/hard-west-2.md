@@ -8,7 +8,7 @@ summary: "게임 자체는 그렇게 길지 않습니다. 정확히 세어보진
 imagePosition: "50% 50%"
 ---
 
-![Hard West 2 표지](images/cover-hard-west-2.svg)
+![Hard West 2 표지](images/hard-west-2.jpg)
 
 **추천.**
 

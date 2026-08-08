@@ -8,7 +8,7 @@ summary: "(-) i7-6700K 4GHz에 GTX1080, 16GB Ram 사용 중이며 SSD에 설치�
 imagePosition: "50% 50%"
 ---
 
-![Spellforce 3 Reforged 표지](images/cover-spellforce-3-reforged.svg)
+![Spellforce 3 Reforged 표지](images/spellforce-3-reforged.jpg)
 
 **추천.**
 

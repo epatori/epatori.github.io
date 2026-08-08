@@ -8,7 +8,7 @@ summary: "게임 자체는 나쁘지 않은데 커뮤니티 경험이 끔찍합�
 imagePosition: "50% 50%"
 ---
 
-![Dota 2 표지](images/cover-dota-2.svg)
+![Dota 2 표지](images/dota-2.jpg)
 
 **비추.**
 

@@ -8,7 +8,7 @@ summary: "Obsidian 개발진이 꾸준히 손을 본 덕분에 Deadfire는 점�
 imagePosition: "50% 50%"
 ---
 
-![Pillars of Eternity Deadfire 표지](images/cover-pillars-of-eternity-deadfire.svg)
+![Pillars of Eternity Deadfire 표지](images/pillars-deadfire.jpg)
 
 **강추.**
 

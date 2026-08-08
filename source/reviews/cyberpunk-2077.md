@@ -8,7 +8,7 @@ summary: "완벽해서가 아니라, 플레이할 가치가 있느냐는 질문�
 imagePosition: "50% 50%"
 ---
 
-![Cyberpunk 2077 표지](images/cover-cyberpunk-2077.svg)
+![Cyberpunk 2077 표지](images/cyberpunk-2077.jpg)
 
 **강추.**
 

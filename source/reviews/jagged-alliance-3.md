@@ -8,7 +8,7 @@ summary: "전투 자체는 재미있다. 엄폐, 사격각, 고저차, 잠입, �
 imagePosition: "50% 50%"
 ---
 
-![Jagged Alliance 3 표지](images/cover-jagged-alliance-3.svg)
+![Jagged Alliance 3 표지](images/jagged-alliance-3.jpg)
 
 **추천.**
 

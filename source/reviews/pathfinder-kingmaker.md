@@ -8,7 +8,7 @@ summary: "이 게임 하지 마세요. 정신적으로 사람을 부숩니다. �
 imagePosition: "50% 50%"
 ---
 
-![Pathfinder Kingmaker 표지](images/cover-pathfinder-kingmaker.svg)
+![Pathfinder Kingmaker 표지](images/pathfinder-kingmaker.jpg)
 
 **비추천.**
 

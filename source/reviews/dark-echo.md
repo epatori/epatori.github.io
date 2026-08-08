@@ -8,7 +8,7 @@ summary: "아이디어가 매우 창의적이고 독창적입니다. 디자인�
 imagePosition: "50% 50%"
 ---
 
-![Dark echo 표지](images/cover-dark-echo.svg)
+![Dark echo 표지](images/dark-echo.jpg)
 
 **추천.**
 

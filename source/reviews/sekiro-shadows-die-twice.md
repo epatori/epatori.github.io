@@ -8,7 +8,7 @@ summary: "기존 소울즈라이크와는 전투 감각이 많이 다릅니다. 
 imagePosition: "50% 50%"
 ---
 
-![Sekiro Shadows Die Twice 표지](images/cover-sekiro-shadows-die-twice.svg)
+![Sekiro Shadows Die Twice 표지](images/sekiro.jpg)
 
 **추천.**
 

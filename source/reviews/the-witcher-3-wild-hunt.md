@@ -8,7 +8,7 @@ summary: "전투 시스템은 훌륭하고, 오픈월드는 방대합니다. 메
 imagePosition: "50% 50%"
 ---
 
-![The Witcher 3 Wild Hunt 표지](images/cover-the-witcher-3-wild-hunt.svg)
+![The Witcher 3 Wild Hunt 표지](images/witcher-3.jpg)
 
 **강추.**
 

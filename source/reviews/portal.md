@@ -8,7 +8,7 @@ summary: "물리 법칙을 게임 규칙으로 옮기는 방식이 탁월합니�
 imagePosition: "50% 50%"
 ---
 
-![Portal 표지](images/cover-portal.svg)
+![Portal 표지](images/portal.jpg)
 
 **추천.**
 

@@ -8,7 +8,7 @@ summary: "저는 아이소메트릭 RPG를 10년 넘게 플레이했습니다. P
 imagePosition: "50% 50%"
 ---
 
-![Baldur's Gate 3 표지](images/cover-baldurs-gate-3.svg)
+![Baldur's Gate 3 표지](images/baldurs-gate-3.jpg)
 
 **강추.**
 

@@ -8,7 +8,7 @@ summary: "스토리도 처음부터 끝까지 훌륭하지만, 사실 메인 스
 imagePosition: "50% 50%"
 ---
 
-![Red Dead Redemption 2 표지](images/cover-red-dead-redemption-2.svg)
+![Red Dead Redemption 2 표지](images/rdr2.jpg)
 
 **강추.**
 

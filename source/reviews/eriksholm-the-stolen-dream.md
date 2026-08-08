@@ -8,7 +8,7 @@ summary: "게임은 전반적으로 어렵지 않습니다. 도전적인 플레�
 imagePosition: "50% 50%"
 ---
 
-![Eriksholm: the Stolen Dream 표지](images/cover-eriksholm-the-stolen-dream.svg)
+![Eriksholm: the Stolen Dream 표지](images/eriksholm.jpg)
 
 **추천.**
 

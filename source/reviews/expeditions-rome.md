@@ -8,7 +8,7 @@ summary: "Conquistador와 Viking도 흥미로운 게임이었지만, 아트 스�
 imagePosition: "50% 50%"
 ---
 
-![Expeditions: Rome 표지](images/cover-expeditions-rome.svg)
+![Expeditions: Rome 표지](images/expeditions-rome.jpg)
 
 **추천.**
 

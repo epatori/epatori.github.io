@@ -8,7 +8,7 @@ summary: "최적화 & 버그픽스 이전까지는 비추. 최적화 & 버그픽
 imagePosition: "50% 50%"
 ---
 
-![Norse: Oath of Blood 표지](images/cover-norse-oath-of-blood.svg)
+![Norse: Oath of Blood 표지](images/norse-oath-of-blood.jpg)
 
 **비추천.**
 

@@ -8,7 +8,7 @@ summary: "액션은 Nioh 시리즈와 세부적으로 다르지만 지향점은 
 imagePosition: "50% 50%"
 ---
 
-![Wo Long 표지](images/cover-wo-long.svg)
+![Wo Long 표지](images/wo-long.jpg)
 
 **추천.**
 

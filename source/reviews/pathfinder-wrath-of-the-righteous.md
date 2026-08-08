@@ -8,7 +8,7 @@ summary: "이 게임은 저에게 단순히 “잘 만든 RPG” 정도가 아�
 imagePosition: "50% 50%"
 ---
 
-![Pathfinder: Wrath of the Righteous 표지](images/cover-pathfinder-wrath-of-the-righteous.svg)
+![Pathfinder: Wrath of the Righteous 표지](images/pathfinder-wotr.jpg)
 
 **강추.**
 

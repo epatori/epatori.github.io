@@ -8,7 +8,7 @@ summary: "전투는 전형적인 Fire Emblem 계열 SRPG에 소울즈라이크�
 imagePosition: "50% 50%"
 ---
 
-![Lost Eidolons: Veil of the Witch 표지](images/cover-lost-eidolons-veil-of-the-witch.svg)
+![Lost Eidolons: Veil of the Witch 표지](images/lost-eidolons-votw.jpg)
 
 **추천.**
 

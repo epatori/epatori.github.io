@@ -8,7 +8,7 @@ summary: "택틱스 오우거 리본에 비해 간단하고 쉽다. 한 번의 �
 imagePosition: "50% 50%"
 ---
 
-![Final Fantasy Tactics - the Ivalice Chronicles 표지](images/cover-final-fantasy-tactics-the-ivalice-chronicles.svg)
+![Final Fantasy Tactics - the Ivalice Chronicles 표지](images/fft-ivalice-chronicles.jpg)
 
 **추천.**
 

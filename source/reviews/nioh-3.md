@@ -8,7 +8,7 @@ summary: "솔직히 게임성만 놓고 보면 저는 전작인 라이즈 오브
 imagePosition: "50% 50%"
 ---
 
-![Nioh 3 표지](images/cover-nioh-3.svg)
+![Nioh 3 표지](images/nioh-3.jpg)
 
 **추천.**
 

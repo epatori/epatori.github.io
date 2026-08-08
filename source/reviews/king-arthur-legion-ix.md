@@ -8,7 +8,7 @@ summary: "전투 시스템은 제법 재미있습니다. 전작 King Arthur: Kni
 imagePosition: "50% 50%"
 ---
 
-![King Arthur: Legion IX 표지](images/cover-king-arthur-legion-ix.svg)
+![King Arthur: Legion IX 표지](images/king-arthur-legion-ix.jpg)
 
 **추천.**
 

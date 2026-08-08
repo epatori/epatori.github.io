@@ -8,7 +8,7 @@ summary: "(1) 그래픽: - GTX 1080에서 최고 세팅으로 꾸준히 120 FPS 
 imagePosition: "50% 50%"
 ---
 
-![Middle Earth: Shadow of War 표지](images/cover-middle-earth-shadow-of-war.svg)
+![Middle Earth: Shadow of War 표지](images/shadow-of-war.jpg)
 
 **비추.**
 

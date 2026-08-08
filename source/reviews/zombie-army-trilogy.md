@@ -8,7 +8,7 @@ summary: "저는 원래 좀비 게임을 별로 좋아하지 않습니다. 다�
 imagePosition: "50% 50%"
 ---
 
-![Zombie Army Trilogy 표지](images/cover-zombie-army-trilogy.svg)
+![Zombie Army Trilogy 표지](images/zombie-army-trilogy.jpg)
 
 **추천.**
 

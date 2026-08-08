@@ -8,7 +8,7 @@ summary: "그래픽은 좋고, 이야기 자체도 나쁘지 않습니다. 기�
 imagePosition: "50% 50%"
 ---
 
-![Wolfenstein The New Order 표지](images/cover-wolfenstein-the-new-order.svg)
+![Wolfenstein The New Order 표지](images/wolfenstein-new-order.jpg)
 
 **추천.**
 

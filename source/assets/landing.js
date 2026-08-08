@@ -4,7 +4,16 @@ const button = root?.querySelector('.enter-button');
 const target = root?.dataset.target || 'reviews/';
 const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
 const finePointer = matchMedia('(hover: hover) and (pointer: fine)');
-const AMBIENT_WORDS = ['애니', '웹툰', '게임', '소설', '만화', '영화', '드라마', '넷플릭스', '뮤지컬', '연극', '여행'];
+const AMBIENT_WORDS = ['ANIME', 'WEBTOON', 'GAME', 'WEB NOVEL', 'MANGA', 'FILM', 'SERIES', 'MUSICAL', 'THEATRE', 'TRAVEL'];
+let lastAmbientWord = '';
+
+function pickAmbientWord() {
+  if (AMBIENT_WORDS.length <= 1) return AMBIENT_WORDS[0] || '';
+  const choices = AMBIENT_WORDS.filter((word) => word !== lastAmbientWord);
+  const next = choices[Math.floor(Math.random() * choices.length)];
+  lastAmbientWord = next;
+  return next;
+}
 
 if (root && canvas && button) {
   const cursorPrompt = document.createElement('div');
@@ -35,7 +44,7 @@ if (root && canvas && button) {
 
     const text = document.createElement('span');
     text.className = 'ambient-ripple-word__text';
-    text.textContent = AMBIENT_WORDS[Math.floor(Math.random() * AMBIENT_WORDS.length)];
+    text.textContent = pickAmbientWord();
     word.append(text);
 
     // 큰 글자가 화면 가장자리에서 잘리지 않도록 실제 렌더링 크기를 잰 뒤

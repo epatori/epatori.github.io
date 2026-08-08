@@ -8,7 +8,7 @@ summary: "<P의 거짓>은 내가 해본 프롬 외 소울즈라이크 중 가�
 imagePosition: "50% 50%"
 ---
 
-![Lies of P 표지](images/cover-lies-of-p.svg)
+![Lies of P 표지](images/lies-of-p.jpg)
 
 **추천.**
 

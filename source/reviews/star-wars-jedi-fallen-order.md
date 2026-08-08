@@ -8,7 +8,7 @@ summary: "전체적으로 꽤 괜찮은 게임입니다. 크게 흠잡을 만한
 imagePosition: "50% 50%"
 ---
 
-![Star Wars Jedi Fallen Order 표지](images/cover-star-wars-jedi-fallen-order.svg)
+![Star Wars Jedi Fallen Order 표지](images/star-wars-jedi-fallen-order.jpg)
 
 **추천.**
 
