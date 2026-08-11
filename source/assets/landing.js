@@ -4,7 +4,9 @@ const button = root?.querySelector('.enter-button');
 const target = root?.dataset.target || 'reviews/';
 const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
 const finePointer = matchMedia('(hover: hover) and (pointer: fine)');
-const AMBIENT_WORDS = ['ANIME', 'WEBTOON', 'GAME', 'WEB NOVEL', 'MANGA', 'FILM', 'SERIES', 'MUSICAL', 'THEATRE', 'TRAVEL'];
+const AMBIENT_WORDS = Array.isArray(window.__PENSIVE_TITLES__)
+  ? window.__PENSIVE_TITLES__.filter((title) => typeof title === 'string' && title.trim())
+  : [];
 let lastAmbientWord = '';
 
 function pickAmbientWord() {
@@ -661,7 +663,7 @@ if (root && canvas && button) {
     water = createCanvasFallback();
   }
 
-  function scheduleAmbientRipple(delay = 900 + Math.random() * 900) {
+  function scheduleAmbientRipple(delay = 300 + Math.random() * 400) {
     clearTimeout(ambientTimer);
     ambientTimer = window.setTimeout(() => {
       if (entering || reduceMotion) return;
@@ -669,7 +671,9 @@ if (root && canvas && button) {
       const y = height * (0.16 + Math.random() * 0.68);
       const point = showAmbientWord(x, y);
       water?.ambient(point.x, point.y);
-      scheduleAmbientRipple(2100 + Math.random() * 2600);
+      // A 5.44s ambient word remains visible while roughly five more
+      // raindrop-like ripples are born around it.
+      scheduleAmbientRipple(220 + Math.random() * 230);
     }, delay);
   }
 

@@ -8,7 +8,9 @@ const outputRoot = path.join(projectRoot, 'site');
 const reviewRoot = path.join(sourceRoot, 'reviews');
 const config = JSON.parse(fs.readFileSync(path.join(projectRoot, 'site.config.json'), 'utf8'));
 const siteName = String(config.name || 'Pensive');
-const siteDescription = '오덕겜창의 리뷰 공간';
+const siteTagline = '오덕겜창의 리뷰공간';
+const siteDescription = '하위문화생활총망라';
+const siteSearchTitle = `${siteName}: ${siteTagline}`;
 const siteUrl = String(config.url || 'https://epatori.github.io/').replace(/\/+$/, '') + '/';
 
 function escapeHtml(value = '') {
@@ -284,7 +286,7 @@ function pageShell({
   pageType = 'website',
   structuredData = null,
 }) {
-  const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
+  const fullTitle = title === siteName ? siteSearchTitle : `${title} — ${siteName}`;
   const metaDescription = description || siteDescription;
   const canonical = canonicalUrl || siteUrl;
   const socialImage = imageUrl || absoluteUrl('images/temp.jpg');
@@ -307,7 +309,7 @@ function pageShell({
   <meta name="twitter:description" content="${escapeHtml(metaDescription)}">
   <meta name="twitter:image" content="${escapeHtml(socialImage)}">
   <title>${escapeHtml(fullTitle)}</title>
-  <link rel="icon" href="${assetPrefix}favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="${assetPrefix}favicon.png" type="image/png" sizes="192x192">
   <link rel="stylesheet" href="${assetPrefix}assets/styles.css">
   ${structuredData ? jsonLd(structuredData) : ''}
 </head>
@@ -357,20 +359,27 @@ function ensureCleanOutput() {
   fs.mkdirSync(outputRoot, { recursive: true });
   fs.cpSync(path.join(sourceRoot, 'assets'), path.join(outputRoot, 'assets'), { recursive: true });
   fs.cpSync(path.join(sourceRoot, 'images'), path.join(outputRoot, 'images'), { recursive: true });
-  const favicon = path.join(sourceRoot, 'favicon.svg');
-  if (fs.existsSync(favicon)) fs.copyFileSync(favicon, path.join(outputRoot, 'favicon.svg'));
+  const favicon = path.join(sourceRoot, 'favicon.png');
+  if (fs.existsSync(favicon)) fs.copyFileSync(favicon, path.join(outputRoot, 'favicon.png'));
 }
 
-function buildLanding() {
+function buildLanding(reviews) {
+  const ambientTitles = JSON.stringify(reviews.map((review) => review.title)).replaceAll('<', '\\u003c');
   const body = `<main class="water-gate" data-water-gate data-target="reviews/">
     <canvas aria-hidden="true"></canvas>
-    <a href="reviews/" class="enter-button" aria-label="블로그에 들어가기"><span class="sr-only">수면을 눌러 블로그에 들어가기</span></a>
+    <div class="sr-only">
+      <h1>${escapeHtml(siteSearchTitle)}</h1>
+      <p>${escapeHtml(siteDescription)}</p>
+    </div>
+    <a href="reviews/" class="enter-button" aria-label="블로그에 들어가기"><span class="sr-only">Pensive 리뷰 목록으로 들어가기</span></a>
   </main>
+  <script>window.__PENSIVE_TITLES__ = ${ambientTitles};</script>
   <script src="assets/landing.js"></script>`;
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: siteName,
+    alternateName: siteSearchTitle,
     url: siteUrl,
     description: siteDescription,
     inLanguage: 'ko-KR',
@@ -404,7 +413,7 @@ function buildCatalog(reviews) {
     <header class="catalog-heading">
       <p class="kicker">records of my life</p>
       <h1>Pensive</h1>
-      <p class="intro">${escapeHtml(siteDescription)}</p>
+      <p class="intro">${escapeHtml(siteTagline)}</p>
       <nav class="filter-bar" aria-label="매체별 리뷰 필터">${filters}</nav>
     </header>
     <section class="currently-playing" aria-labelledby="currently-playing-title">
@@ -564,7 +573,7 @@ Sitemap: ${absoluteUrl('sitemap.xml')}
 
 ensureCleanOutput();
 const reviews = readReviews();
-buildLanding();
+buildLanding(reviews);
 buildCatalog(reviews);
 for (const review of reviews) buildArticle(review, reviews);
 buildSeoFiles(reviews);
