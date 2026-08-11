@@ -1,7 +1,7 @@
 ---
 title: "John Wick"
 slug: "john-wick"
-date: "2029-09-04"
+date: "2019-09-04"
 order: "143"
 category: "FILM"
 media: "영화"
