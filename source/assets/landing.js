@@ -673,7 +673,7 @@ if (root && canvas && button) {
       water?.ambient(point.x, point.y);
       // A 5.44s ambient word remains visible while roughly five more
       // raindrop-like ripples are born around it.
-      scheduleAmbientRipple(220 + Math.random() * 230);
+      scheduleAmbientRipple(20 + Math.random() * 60);
     }, delay);
   }
 
