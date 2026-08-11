@@ -2,7 +2,6 @@
 title: "Life of Pi"
 slug: "life-of-pi"
 date: "2013-01-09"
-order: "111"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

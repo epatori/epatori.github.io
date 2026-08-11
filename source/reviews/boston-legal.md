@@ -2,7 +2,6 @@
 title: "Boston Legal"
 slug: "boston-legal"
 date: "2013-11-27"
-order: "61"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

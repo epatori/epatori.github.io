@@ -2,7 +2,6 @@
 title: "Interstellar"
 slug: "interstellar"
 date: "2014-11-06"
-order: "120"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

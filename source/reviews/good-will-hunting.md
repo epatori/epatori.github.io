@@ -2,7 +2,6 @@
 title: "Good Will Hunting"
 slug: "good-will-hunting"
 date: "2015-06-20"
-order: "162"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

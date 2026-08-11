@@ -2,7 +2,6 @@
 title: "Lost Room"
 slug: "lost-room"
 date: "2026-08-07"
-order: "68"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

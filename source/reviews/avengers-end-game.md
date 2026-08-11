@@ -2,7 +2,6 @@
 title: "Avengers End Game"
 slug: "avengers-end-game"
 date: "2019-04-27"
-order: "126"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

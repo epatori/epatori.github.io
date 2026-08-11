@@ -2,7 +2,6 @@
 title: "A.I."
 slug: "a-i"
 date: "2004-05-06"
-order: "109"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

@@ -2,7 +2,6 @@
 title: "Eriksholm: the Stolen Dream"
 slug: "eriksholm-the-stolen-dream"
 date: "2026-02-23"
-order: "9"
 category: "GAME · 추천"
 summary: "게임은 전반적으로 어렵지 않습니다. 도전적인 플레이를 기대하면 다소 싱겁게 느껴질 수 있습니다. 그렇다고 해서 완전히 허무한 경험은 아닙니다. 진행이 크게 막히지 않고, 처음부터 끝까지 무난하게 흘러갑니다."
 imagePosition: "50% 50%"

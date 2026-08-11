@@ -2,7 +2,6 @@
 title: "Fate UBW"
 slug: "fate-ubw"
 date: "2020-08-15"
-order: "184"
 category: "ANIME"
 media: "애니"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

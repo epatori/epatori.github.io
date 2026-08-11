@@ -2,7 +2,6 @@
 title: "Avowed"
 slug: "avowed"
 date: "2025-04-20"
-order: "14"
 category: "GAME · 비추천"
 summary: "아예 재미없는 게임은 아닙니다. 플레이하는 동안 어느 정도 즐길 부분은 있었고, 끝까지 못 견딜 정도로 나쁘지도 않았습니다."
 imagePosition: "50% 50%"

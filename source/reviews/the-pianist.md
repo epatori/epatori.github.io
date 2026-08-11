@@ -2,7 +2,6 @@
 title: "The Pianist"
 slug: "the-pianist"
 date: "2008-10-16"
-order: "114"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

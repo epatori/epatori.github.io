@@ -2,7 +2,6 @@
 title: "Dead Poets Society"
 slug: "dead-poets-society"
 date: "2006-05-16"
-order: "113"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

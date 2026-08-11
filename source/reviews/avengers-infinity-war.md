@@ -2,7 +2,6 @@
 title: "Avengers Infinity War"
 slug: "avengers-infinity-war"
 date: "2018-05-01"
-order: "125"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

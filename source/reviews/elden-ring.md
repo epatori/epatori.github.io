@@ -2,7 +2,6 @@
 title: "Elden Ring"
 slug: "elden-ring"
 date: "2024-07-23"
-order: "38"
 category: "GAME · 강추"
 summary: "액션 하나만 잘한 게임이 아닙니다. 스토리, 로어, 캐릭터성, 게임성, 분위기, 음악, 비주얼까지 거의 모든 요소가 정점에 있습니다. 보통은 어떤 부문이 압도적이면 다른 부문은 조금 희생되기 마련인데, Elden Ring은 그 균형 자체가 비정상적으로 높…"
 imagePosition: "50% 50%"

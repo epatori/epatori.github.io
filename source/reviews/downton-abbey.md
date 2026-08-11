@@ -2,7 +2,6 @@
 title: "Downton Abbey"
 slug: "downton-abbey"
 date: "2015-02-22"
-order: "53"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

@@ -2,7 +2,6 @@
 title: "The Prestige"
 slug: "the-prestige"
 date: "2009-07-30"
-order: "118"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

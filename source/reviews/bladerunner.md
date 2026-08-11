@@ -2,7 +2,6 @@
 title: "Bladerunner"
 slug: "bladerunner"
 date: "2012-12-20"
-order: "137"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

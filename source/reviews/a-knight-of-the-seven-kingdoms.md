@@ -2,7 +2,6 @@
 title: "A Knight of the Seven Kingdoms"
 slug: "a-knight-of-the-seven-kingdoms"
 date: "2026-02-25"
-order: "50"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

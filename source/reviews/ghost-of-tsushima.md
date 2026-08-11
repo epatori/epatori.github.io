@@ -2,7 +2,6 @@
 title: "Ghost of Tsushima"
 slug: "ghost-of-tsushima"
 date: "2022-03-25"
-order: "40"
 category: "GAME · 강추"
 summary: "철저한 고증을 기대했으나 개판이다. 대마도가 워낙 쬐끄마니까 그걸 거의 칸사이 크기로 키운 느낌이다. 또 지역별로 계절 변화도 줬는데, 대마도에 계절 차이가 어딨냐... 사카이니 뭐니 하는 사무라이 가문 엄청 많이 등장하는데 대마도는 그 많은 가문 수용할…"
 imagePosition: "50% 50%"

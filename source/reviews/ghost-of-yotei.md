@@ -2,7 +2,6 @@
 title: "Ghost of Yotei"
 slug: "ghost-of-yotei"
 date: "2025-10-23"
-order: "41"
 category: "GAME · 강추"
 summary: "전작보다는 고증을 잘 한 거 같다. 하지만 전작을 해본 뒤 고증을 기대하지 않았기에 이번에도 거기엔 초점을 두지 않았다. 스토리는 전작에 아주 살짝 못 미친다. 이번에도 완성도는 매우 높다. 스토리만으로도 해볼 가치가 있다. 분위기 잡는 건 전작이랑 비슷…"
 imagePosition: "50% 50%"

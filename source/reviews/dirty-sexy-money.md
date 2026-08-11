@@ -2,7 +2,6 @@
 title: "Dirty Sexy Money"
 slug: "dirty-sexy-money"
 date: "2011-01-31"
-order: "62"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

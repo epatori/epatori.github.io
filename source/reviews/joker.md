@@ -2,7 +2,6 @@
 title: "Joker"
 slug: "joker"
 date: "2019-10-21"
-order: "124"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

@@ -2,7 +2,6 @@
 title: "Divinity Original Sin"
 slug: "divinity-original-sin"
 date: "2015-05-14"
-order: "36"
 category: "GAME · 추천"
 summary: "전투 시스템이 훌륭합니다. 여러 요소를 조합하고 상황을 이용하는 재미가 크며, 전투마다 다른 방식으로 풀어볼 여지가 있습니다. 제작 시스템도 좋고, 세계도 넓습니다. 플롯은 준수하며 중간중간 들어가는 유머도 분위기를 환기해줍니다."
 imagePosition: "50% 50%"

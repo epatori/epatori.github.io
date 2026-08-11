@@ -2,7 +2,6 @@
 title: "8 Mile"
 slug: "8-mile"
 date: "2014-11-8"
-order: "159"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

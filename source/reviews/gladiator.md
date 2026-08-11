@@ -2,7 +2,6 @@
 title: "Gladiator"
 slug: "gladiator"
 date: "2015-11-08"
-order: "152"
 category: "FILM"
 media: "영화"
 summary: "사랑으로 인한 폭력. 폭력으로 인한 사랑."

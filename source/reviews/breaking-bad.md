@@ -2,7 +2,6 @@
 title: "Breaking Bad"
 slug: "breaking-bad"
 date: "2024-04-28"
-order: "52"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

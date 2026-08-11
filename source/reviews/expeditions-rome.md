@@ -2,7 +2,6 @@
 title: "Expeditions: Rome"
 slug: "expeditions-rome"
 date: "2022-11-23"
-order: "16"
 category: "GAME · 추천"
 summary: "Conquistador와 Viking도 흥미로운 게임이었지만, 아트 스타일이 다소 조악해서 전체 작품이 덜 다듬어진 것처럼 느껴졌습니다. Rome은 그 약점을 확실히 극복했습니다. 그래픽이 훨씬 아름답고, 화면에서 느껴지는 완성도부터 전작들과 다릅니다."
 imagePosition: "50% 50%"

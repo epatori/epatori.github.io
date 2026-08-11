@@ -2,7 +2,6 @@
 title: "Gravity"
 slug: "gravity"
 date: "2013-10-18"
-order: "112"
 category: "FILM"
 media: "영화"
 summary: "목표를 잃은 인생에게 무슨 일이 일어날까?"

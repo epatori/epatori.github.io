@@ -2,7 +2,6 @@
 title: "Dota 2"
 slug: "dota-2"
 date: "2016-04-16"
-order: "27"
 category: "GAME · 비추"
 summary: "게임 자체는 나쁘지 않은데 커뮤니티 경험이 끔찍합니다. 팀게임인데 말도 안 통하고, 통하더라도 소통하지 않으며, 매 경기 누군가는 연결이 끊기거나 그냥 나갑니다."
 imagePosition: "50% 50%"

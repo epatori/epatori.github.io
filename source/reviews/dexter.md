@@ -2,7 +2,6 @@
 title: "Dexter"
 slug: "dexter"
 date: "2016-05-30"
-order: "63"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

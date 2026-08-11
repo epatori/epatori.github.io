@@ -2,7 +2,6 @@
 title: "Django Unchained"
 slug: "django-unchained"
 date: "2017-06-20"
-order: "147"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

@@ -2,7 +2,6 @@
 title: "A Beautiful Mind"
 slug: "a-beautiful-mind"
 date: "2015-09-06"
-order: "141"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

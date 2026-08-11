@@ -2,7 +2,6 @@
 title: "Dunkirk"
 slug: "dunkirk"
 date: "2017-07-24"
-order: "121"
 category: "FILM"
 media: "영화"
 summary: "극찬 받는 모습밖에 못 봤는데, 솔직히 취향 많이 탈 것 같다."

@@ -2,7 +2,6 @@
 title: "Assassin's Creed Shadows"
 slug: "assassins-creed-shadows"
 date: "2025-06-09"
-order: "13"
 category: "GAME · 추천"
 summary: "플레이 자체는 재미있습니다. 하지만 내러티브는 많이 아쉽습니다. 몰입감을 높이려는 자잘한 실험도 몇 가지 보였고, 프랜차이즈가 앞으로 더 나아질 가능성도 느껴졌습니다."
 imagePosition: "50% 50%"

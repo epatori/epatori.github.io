@@ -2,7 +2,6 @@
 title: "Lawrence of Arabia"
 slug: "lawrence-of-arabia"
 date: "2014-09-16"
-order: "105"
 category: "FILM"
 media: "영화"
 summary: "이 영화의 사막 표현력은 그래비티의 우주 표현력과 맞먹는다."

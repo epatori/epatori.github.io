@@ -2,7 +2,6 @@
 title: "House"
 slug: "house"
 date: "2014-10-10"
-order: "51"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

@@ -2,7 +2,6 @@
 title: "Kingdom of Heaven"
 slug: "kingdom-of-heaven"
 date: "2017-04-10"
-order: "144"
 category: "FILM"
 media: "영화"
 summary: "공허한 내면을 채울 수 있는 것은 같은 허무뿐이다."

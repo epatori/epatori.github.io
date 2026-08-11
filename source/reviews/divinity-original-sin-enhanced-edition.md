@@ -2,7 +2,6 @@
 title: "Divinity Original Sin Enhanced Edition"
 slug: "divinity-original-sin-enhanced-edition"
 date: "2016-11-24"
-order: "37"
 category: "GAME · 추천"
 summary: "원작의 가장 큰 장점이던 전투는 더 좋아졌습니다. 제작 시스템도 훨씬 친절하게 다듬어져서, 원작보다 사용하기 편합니다. 플롯 역시 정리와 보완을 거쳐 훨씬 매끄러워졌습니다."
 imagePosition: "50% 50%"

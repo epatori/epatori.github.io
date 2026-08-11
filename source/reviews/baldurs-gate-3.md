@@ -2,7 +2,6 @@
 title: "Baldur's Gate 3"
 slug: "baldurs-gate-3"
 date: "2023-11-23"
-order: "15"
 category: "GAME · 강추"
 summary: "저는 아이소메트릭 RPG를 10년 넘게 플레이했습니다. Pathfinder: Kingmaker, Wrath of the Righteous, Tyranny, Solasta, Disco Elysium 같은 좋은 게임도 많이 했습니다. 개별 요소만 떼어놓으면…"
 imagePosition: "50% 50%"

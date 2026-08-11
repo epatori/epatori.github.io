@@ -2,7 +2,6 @@
 title: "Cyberpunk 2077"
 slug: "cyberpunk-2077"
 date: "2020-12-20"
-order: "18"
 category: "GAME · 강추"
 summary: "완벽해서가 아니라, 플레이할 가치가 있느냐는 질문에 망설일 이유가 없기 때문입니다. 단점을 하나씩 따져가며 추천 여부를 고민하는 게임이 있는 반면, 어떤 게임은 전체 경험이 그 계산을 넘어섭니다. 저에게 Cyberpunk 2077은 후자였습니다."
 imagePosition: "50% 50%"

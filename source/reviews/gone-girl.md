@@ -2,7 +2,6 @@
 title: "Gone Girl"
 slug: "gone-girl"
 date: "2014-11-21"
-order: "104"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

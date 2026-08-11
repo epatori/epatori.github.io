@@ -2,7 +2,6 @@
 title: "Fate Zero"
 slug: "fate-zero"
 date: "2020-08-08"
-order: "183"
 category: "ANIME"
 media: "애니"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

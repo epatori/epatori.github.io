@@ -2,7 +2,6 @@
 title: "Batman Begins"
 slug: "batman-begins"
 date: "2009-07-04"
-order: "115"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

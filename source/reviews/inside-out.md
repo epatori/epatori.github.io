@@ -2,7 +2,6 @@
 title: "Inside Out"
 slug: "inside-out"
 date: "2015-07-09"
-order: "102"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

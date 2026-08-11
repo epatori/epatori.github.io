@@ -2,7 +2,6 @@
 title: "Blindness"
 slug: "blindness"
 date: "2010-10-23"
-order: "108"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

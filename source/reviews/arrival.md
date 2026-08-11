@@ -2,7 +2,6 @@
 title: "Arrival"
 slug: "arrival"
 date: "2017-07-04"
-order: "167"
 category: "FILM"
 media: "영화"
 summary: "비선형적 시간구조와 숭고한 자유의지"

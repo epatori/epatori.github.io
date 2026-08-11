@@ -2,7 +2,6 @@
 title: "How I Met Your Mother"
 slug: "how-i-met-your-mother"
 date: "2014-03-31"
-order: "57"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

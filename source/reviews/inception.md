@@ -2,7 +2,6 @@
 title: "Inception"
 slug: "inception"
 date: "2010-07-28"
-order: "119"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

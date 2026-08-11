@@ -2,7 +2,6 @@
 title: "Her"
 slug: "her"
 date: "2014-05-29"
-order: "107"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

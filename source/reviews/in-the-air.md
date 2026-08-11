@@ -1,8 +1,7 @@
 ---
-title: "In the Air"
-slug: "in-the-air"
+title: "Up In the Air"
+slug: "up-in-the-air"
 date: "2015-06-16"
-order: "154"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

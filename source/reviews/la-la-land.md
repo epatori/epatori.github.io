@@ -2,7 +2,6 @@
 title: "La La Land"
 slug: "la-la-land"
 date: "2017-12-02"
-order: "145"
 category: "FILM"
 media: "영화"
 summary: "이루지 못한 꿈. 추억 혹은 미련."

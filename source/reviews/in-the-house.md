@@ -2,7 +2,6 @@
 title: "In the House"
 slug: "in-the-house"
 date: "2015-08-08"
-order: "132"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

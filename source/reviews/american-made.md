@@ -2,7 +2,6 @@
 title: "American Made"
 slug: "american-made"
 date: "2017-09-14"
-order: "127"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

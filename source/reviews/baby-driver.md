@@ -2,7 +2,6 @@
 title: "Baby Driver"
 slug: "baby-driver"
 date: "2017-10-21"
-order: "97"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

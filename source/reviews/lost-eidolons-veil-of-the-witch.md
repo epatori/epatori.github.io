@@ -2,7 +2,6 @@
 title: "Lost Eidolons: Veil of the Witch"
 slug: "lost-eidolons-veil-of-the-witch"
 date: "2026-03-04"
-order: "7"
 category: "GAME · 추천"
 summary: "전투는 전형적인 Fire Emblem 계열 SRPG에 소울즈라이크적인 긴장감을 섞은 형태입니다. 완전히 새로운 장르는 아니지만, 익숙한 턴제 전투에 다른 감각을 얹는 방식이 제법 잘 먹혔습니다. 레벨 디자인도 무리 없이 합리적이고, 전투를 풀어나가는 과정…"
 imagePosition: "50% 50%"
