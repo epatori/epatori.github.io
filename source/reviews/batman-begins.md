@@ -1,7 +1,7 @@
 ---
 title: "Batman Begins"
 slug: "batman-begins"
-date: "2026-08-07"
+date: "2009-07-04"
 order: "115"
 category: "FILM"
 media: "영화"

@@ -1,18 +1,38 @@
 ---
 title: "La La Land"
 slug: "la-la-land"
-date: "2026-08-07"
+date: "2017-12-02"
 order: "145"
 category: "FILM"
 media: "영화"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "이루지 못한 꿈. 추억 혹은 미련."
 imagePosition: "50% 50%"
 ---
 
 ![La La Land 표지](images/la-la-land.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+우리는 꿈을 갖고 살아간다.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+어떤 이는 세바스찬처럼 재즈 바를 차리고 싶어하고,
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+또 어떤 이는 미아처럼 여배우가 되고 싶어한다.
+
+두 사람은 오순도순 사랑을 나누며 살아간다.
+
+하지만 이루지 못한 꿈에 대한 갈망은 서로에 대한 열망으로도 채울 수 없다.
+
+앞만 보고 달려도 이룰까 말까.
+
+함께 달리는 옆사람까지 챙겨주다보면 꿈을 이루는 것은 영영 불가능할 것만 같다.
+
+결국 꿈을 이루기 위해 그들은 서로를 포기한다.
+
+그리고 수년 뒤 두 사람은, 꿈을 이루고 성공한 모습으로 재회한다.
+
+하지만 둘은 곧 이루지 못한 사랑에 대한 지독한 갈망으로 침묵에 잠긴다.
+
+그 때 내가 이 사람을 택했더라면...
+
+이룬 줄로만 알았던 두 사람의 꿈은 그렇게 조금 다른 모습으로 다시 싹튼다.
+
+꿈이라는 건, 목표라는 건, 누구에게나 늘 그러하다.

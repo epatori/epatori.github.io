@@ -1,7 +1,7 @@
 ---
 title: "Avengers Infinity War"
 slug: "avengers-infinity-war"
-date: "2026-08-07"
+date: "2018-05-01"
 order: "125"
 category: "FILM"
 media: "영화"

@@ -1,7 +1,7 @@
 ---
 title: "Django Unchained"
 slug: "django-unchained"
-date: "2026-08-07"
+date: "2017-06-20"
 order: "147"
 category: "FILM"
 media: "영화"

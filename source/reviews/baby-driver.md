@@ -1,7 +1,7 @@
 ---
 title: "Baby Driver"
 slug: "baby-driver"
-date: "2026-08-07"
+date: "2017-10-21"
 order: "97"
 category: "FILM"
 media: "영화"

@@ -1,7 +1,7 @@
 ---
 title: "Interstellar"
 slug: "interstellar"
-date: "2026-08-07"
+date: "2014-11-06"
 order: "120"
 category: "FILM"
 media: "영화"

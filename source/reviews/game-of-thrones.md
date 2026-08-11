@@ -1,7 +1,7 @@
 ---
 title: "Game of Thrones"
 slug: "game-of-thrones"
-date: "2026-08-07"
+date: "2019-05-19"
 order: "48"
 category: "SERIES"
 media: "시리즈"

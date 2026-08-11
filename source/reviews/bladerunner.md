@@ -1,7 +1,7 @@
 ---
 title: "Bladerunner"
 slug: "bladerunner"
-date: "2026-08-07"
+date: "2012-12-20"
 order: "137"
 category: "FILM"
 media: "영화"

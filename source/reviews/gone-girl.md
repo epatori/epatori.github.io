@@ -1,7 +1,7 @@
 ---
 title: "Gone Girl"
 slug: "gone-girl"
-date: "2026-08-07"
+date: "2014-11-21"
 order: "104"
 category: "FILM"
 media: "영화"
@@ -11,8 +11,6 @@ imagePosition: "50% 50%"
 
 ![Gone Girl 표지](images/gone-girl.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+이번만큼은 Gone Girl 원제보다 나를 찾아줘 가 더 잘 맞는다.
+나를 찾아줘... 차원이 다른 고요한 광기의 섬뜩함.
+솔직히 인터스텔라보다 배는 더 재밌고 뛰어나다.

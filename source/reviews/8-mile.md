@@ -1,7 +1,7 @@
 ---
 title: "8 Mile"
 slug: "8-mile"
-date: "2026-08-07"
+date: "2014-11-8"
 order: "159"
 category: "FILM"
 media: "영화"

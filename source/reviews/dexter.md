@@ -1,7 +1,7 @@
 ---
 title: "Dexter"
 slug: "dexter"
-date: "2026-08-07"
+date: "2016-05-30"
 order: "63"
 category: "SERIES"
 media: "시리즈"

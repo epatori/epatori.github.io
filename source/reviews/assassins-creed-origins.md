@@ -1,7 +1,7 @@
 ---
 title: "Assassin's Creed Origins"
 slug: "assassins-creed-origins"
-date: "2026-08-06"
+date: "2018-01-07"
 order: "26"
 category: "GAME · 추천"
 summary: "(1) 그래픽: + GTX 1080에서 최고 세팅으로 60~100 FPS 나옵니다. 어크 시리즈가 늘 그래왔듯 이번 작품도 풍경이 정말 예술적입니다. 맵 규모도 어마어마하고, 그냥 말 타고 돌아만 다녀도 만족스러울 정도입니다."

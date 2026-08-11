@@ -1,7 +1,7 @@
 ---
 title: "Breaking Bad"
 slug: "breaking-bad"
-date: "2026-08-07"
+date: "2024-04-28"
 order: "52"
 category: "SERIES"
 media: "시리즈"

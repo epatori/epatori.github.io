@@ -1,7 +1,7 @@
 ---
 title: "Fate Heaven's Feel"
 slug: "fate-heavens-feel"
-date: "2026-08-07"
+date: "2021-03-31"
 order: "185"
 category: "ANIME"
 media: "애니"

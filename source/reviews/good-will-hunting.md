@@ -1,7 +1,7 @@
 ---
 title: "Good Will Hunting"
 slug: "good-will-hunting"
-date: "2026-08-07"
+date: "2015-06-20"
 order: "162"
 category: "FILM"
 media: "영화"

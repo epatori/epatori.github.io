@@ -1,7 +1,7 @@
 ---
 title: "How I Met Your Mother"
 slug: "how-i-met-your-mother"
-date: "2026-08-07"
+date: "2014-03-31"
 order: "57"
 category: "SERIES"
 media: "시리즈"

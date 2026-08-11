@@ -1,7 +1,7 @@
 ---
 title: "House"
 slug: "house"
-date: "2026-08-07"
+date: "2014-10-10"
 order: "51"
 category: "SERIES"
 media: "시리즈"

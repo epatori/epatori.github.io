@@ -1,7 +1,7 @@
 ---
 title: "Dirty Sexy Money"
 slug: "dirty-sexy-money"
-date: "2026-08-07"
+date: "2011-01-31"
 order: "62"
 category: "SERIES"
 media: "시리즈"

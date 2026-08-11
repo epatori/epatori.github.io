@@ -1,7 +1,7 @@
 ---
 title: "Joker"
 slug: "joker"
-date: "2026-08-07"
+date: "2019-10-21"
 order: "124"
 category: "FILM"
 media: "영화"

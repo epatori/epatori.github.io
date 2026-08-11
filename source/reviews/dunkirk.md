@@ -1,18 +1,20 @@
 ---
 title: "Dunkirk"
 slug: "dunkirk"
-date: "2026-08-07"
+date: "2017-07-24"
 order: "121"
 category: "FILM"
 media: "영화"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "극찬 받는 모습밖에 못 봤는데, 솔직히 취향 많이 탈 것 같다."
 imagePosition: "50% 50%"
 ---
 
 ![Dunkirk 표지](images/dunkirk.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+극도의 사실주의 영화.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+최소한의 픽션과 드라마, 과장으로 만들어진 탓에 영 맹물을 들이키는 느낌이다.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+극찬 받는 모습밖에 못 봤는데, 솔직히 취향 많이 탈 것 같다.
+
+조미료를 좋아하는 내게는 별로였다.

@@ -1,7 +1,7 @@
 ---
 title: "Boston Legal"
 slug: "boston-legal"
-date: "2026-08-07"
+date: "2013-11-27"
 order: "61"
 category: "SERIES"
 media: "시리즈"

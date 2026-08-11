@@ -669,8 +669,7 @@ if (root && canvas && button) {
       if (entering || reduceMotion) return;
       const x = width * (0.15 + Math.random() * 0.7);
       const y = height * (0.16 + Math.random() * 0.68);
-      const point = showAmbientWord(x, y);
-      water?.ambient(point.x, point.y);
+      water?.ambient(x, y);
       // A 5.44s ambient word remains visible while roughly five more
       // raindrop-like ripples are born around it.
       scheduleAmbientRipple(20 + Math.random() * 60);

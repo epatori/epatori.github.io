@@ -1,7 +1,7 @@
 ---
 title: "Blindness"
 slug: "blindness"
-date: "2026-08-07"
+date: "2010-10-23"
 order: "108"
 category: "FILM"
 media: "영화"

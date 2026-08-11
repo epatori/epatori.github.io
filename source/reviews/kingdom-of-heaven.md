@@ -1,18 +1,18 @@
 ---
 title: "Kingdom of Heaven"
 slug: "kingdom-of-heaven"
-date: "2026-08-07"
+date: "2017-04-10"
 order: "144"
 category: "FILM"
 media: "영화"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "공허한 내면을 채울 수 있는 것은 같은 허무뿐이다."
 imagePosition: "50% 50%"
 ---
 
 ![Kingdom of Heaven 표지](images/kingdom-of-heaven.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+모두가 원하지만 아무 짝에 쓸모 없는 예루살렘.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+허무한 욕망의 결말.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+그러나 우리에게 그 허무가 전부라면?

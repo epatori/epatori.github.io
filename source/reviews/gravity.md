@@ -1,7 +1,7 @@
 ---
 title: "Gravity"
 slug: "gravity"
-date: "2026-08-07"
+date: "2013-10-18"
 order: "112"
 category: "FILM"
 media: "영화"

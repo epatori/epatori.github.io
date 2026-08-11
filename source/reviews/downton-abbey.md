@@ -1,7 +1,7 @@
 ---
 title: "Downton Abbey"
 slug: "downton-abbey"
-date: "2026-08-07"
+date: "2015-02-22"
 order: "53"
 category: "SERIES"
 media: "시리즈"

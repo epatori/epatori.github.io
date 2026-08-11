@@ -1,7 +1,7 @@
 ---
 title: "Inside Out"
 slug: "inside-out"
-date: "2026-08-07"
+date: "2015-07-09"
 order: "102"
 category: "FILM"
 media: "영화"

@@ -1,7 +1,7 @@
 ---
 title: "Inception"
 slug: "inception"
-date: "2026-08-07"
+date: "2010-07-28"
 order: "119"
 category: "FILM"
 media: "영화"

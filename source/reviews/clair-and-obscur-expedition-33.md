@@ -1,7 +1,7 @@
 ---
 title: "Clair & Obscur: Expedition 33"
 slug: "clair-and-obscur-expedition-33"
-date: "2026-08-06"
+date: "2026-06-04"
 order: "5"
 category: "GAME · 추천"
 summary: "일단 전체적으로는 서양 인디겜의 탈을 쓴 JRPG입니다. 겉으로는 전혀 안 그래보이지만 직접 게임을 해보시면 본질적으로 너무나도 JRPG를 닮아있어서 이건 어떻게 부정할 수가 없습니다."

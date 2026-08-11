@@ -1,7 +1,7 @@
 ---
 title: "American Made"
 slug: "american-made"
-date: "2026-08-07"
+date: "2017-09-14"
 order: "127"
 category: "FILM"
 media: "영화"

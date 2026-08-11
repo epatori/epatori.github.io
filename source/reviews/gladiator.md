@@ -1,18 +1,48 @@
 ---
 title: "Gladiator"
 slug: "gladiator"
-date: "2026-08-07"
+date: "2015-11-08"
 order: "152"
 category: "FILM"
 media: "영화"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "사랑으로 인한 폭력. 폭력으로 인한 사랑."
 imagePosition: "50% 50%"
 ---
 
 ![Gladiator 표지](images/gladiator.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+폭력적이기 그지 없는 이 작품에서 가장 강조되는 것은 아이러니하게도 사랑이다.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+먼저 황제 마르쿠스는 로마를 사랑하기에 아들이 아닌 막시무스를 후계자로 선택한다.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+코모두스로 하여금 제 아비를 죽이게 만든 것은 사랑 받지 못한 상처요, 그가 콜로세움을 다시 연 것은 시민들에게 사랑받고자 함이다.
+
+또한 누이와 아버지를 사랑했기에 그들의 사랑을 독차지한 막시무스를 시기하여 사형을 내린다.
+
+누이 루실라도 아버지를 사랑했기에 코모두스에게 손찌검을 하였고, 아들 루시우스를 사랑했기에 코모두스에게 복종하였다.
+
+주인공 막시무스가 전쟁을 승리로 이끌고, 황위를 거절하고, 사형에 저항하고, 무엇보다 간절히 집으로 돌아가길 소망한 것 역시
+
+부인과 아들에 대한 깊은 사랑이 그 원인이다.
+
+
+
+"He will bring them death, and they will love him for it."
+
+
+
+작중 두번 반복되는 구절이다.
+
+막시무스는 콜로세움에서 로마에 수많은 죽음을 선물하고, 로마는 이에 환호하며 그에게 끝없는 사랑을 보낸다.
+
+황제라는 타이틀에도 불구하고 시민들에게 외면 당한 고독한 남자 코모두스.
+
+천한 검투사임에도 시민들에게 사랑 받은 막시무스.
+
+최후의 순간에 두 남자 모두 죽음을 맞이하지만, 막시무스의 시신은 병사들, 검투사들이 앞다투어 운반하는 반면
+
+하얀 검투 예복으로 화려하게 치장된 코모두스의 외로운 시신은 콜로세움의 한켠에서 싸늘히 식어간다.
+
+
+
+마지막까지 영화 "글래디에이터"는 사랑이 불러올 수 있는 두 가지 상반되는 결과를 이토록 적나라하게 표현한다.

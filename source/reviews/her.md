@@ -1,7 +1,7 @@
 ---
 title: "Her"
 slug: "her"
-date: "2026-08-07"
+date: "2014-05-29"
 order: "107"
 category: "FILM"
 media: "영화"
