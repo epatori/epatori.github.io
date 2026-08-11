@@ -233,7 +233,6 @@ function readReviews() {
         slug: data.slug || name.replace(/\.md$/, ''),
         title: data.title || name.replace(/\.md$/, ''),
         date: data.date || '2026-01-01',
-        order: Number(data.order || 9999),
         category: data.category || 'REVIEW',
         media: normalizeMedia(data.media || data.category || '게임'),
         summary: data.summary || '',
@@ -241,7 +240,7 @@ function readReviews() {
         image,
       };
     })
-    .sort((a, b) => (a.order - b.order) || (new Date(b.date) - new Date(a.date)));
+    .sort((a, b) => new Date(b.date) - new Date(a.date));
 }
 
 function formatDate(value, long = false) {
