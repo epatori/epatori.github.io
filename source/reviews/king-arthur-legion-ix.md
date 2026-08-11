@@ -1,7 +1,7 @@
 ---
 title: "King Arthur: Legion IX"
 slug: "king-arthur-legion-ix"
-date: "2026-08-06"
+date: "2026-02-28"
 order: "8"
 category: "GAME · 추천"
 summary: "전투 시스템은 제법 재미있습니다. 전작 King Arthur: Knight's Tale의 전투를 좋아했다면 이번에도 대체로 만족할 겁니다. 익숙한 규칙을 크게 뒤집지는 않지만, 기존 전투의 손맛과 조합하는 재미는 살아 있습니다."

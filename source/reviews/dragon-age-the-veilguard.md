@@ -1,7 +1,7 @@
 ---
 title: "Dragon Age The Veilguard"
 slug: "dragon-age-the-veilguard"
-date: "2026-08-06"
+date: "2026-02-16"
 order: "10"
 category: "GAME · 비추천"
 summary: "끔찍할 거라는 예상은 했습니다. 그래도 프랜차이즈에 대한 애정과 예의 때문에 끝까지 플레이했습니다. 그런데 예상이 맞았다고 해서 덜 실망스러운 건 아니더군요."

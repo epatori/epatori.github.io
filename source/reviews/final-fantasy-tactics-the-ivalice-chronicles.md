@@ -1,7 +1,7 @@
 ---
 title: "Final Fantasy Tactics - the Ivalice Chronicles"
 slug: "final-fantasy-tactics-the-ivalice-chronicles"
-date: "2026-08-06"
+date: "2026-06-09"
 order: "4"
 category: "GAME · 추천"
 summary: "택틱스 오우거 리본에 비해 간단하고 쉽다. 한 번의 전투에 적이 5-7마리 정도 뿐이며, 아군은 최소 4, 정석은 5, 게스트 캐릭터 있을 경우 7명 정도다. 아군 하나하나가 1인분만 해도 가뿐하다. 전략전술의 배리에이션은 거의 없다시피하며, 전투의 양상…"
