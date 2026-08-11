@@ -1,8 +1,7 @@
 ---
 title: "Pathfinder: Wrath of the Righteous"
 slug: "pathfinder-wrath-of-the-righteous"
-date: "2026-08-06"
-order: "17"
+date: "2021-09-20"
 category: "GAME · 강추"
 summary: "이 게임은 저에게 단순히 “잘 만든 RPG” 정도가 아닙니다. 장점과 단점을 항목별로 늘어놓아 점수를 계산하는 방식으로는 설명이 안 됩니다."
 imagePosition: "50% 50%"

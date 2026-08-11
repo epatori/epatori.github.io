@@ -1,8 +1,7 @@
 ---
 title: "Suits"
 slug: "suits"
-date: "2026-08-07"
-order: "60"
+date: "2019-09-25"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

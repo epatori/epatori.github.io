@@ -1,18 +1,25 @@
 ---
 title: "Rushmore"
 slug: "rushmore"
-date: "2026-08-07"
-order: "98"
+date: "2017-02-21"
 category: "FILM"
 media: "영화"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "<실버라이닝 플레이북> + <돈키호테>"
 imagePosition: "50% 50%"
 ---
 
 ![Rushmore 표지](images/rushmore.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+간만에 미친 영화다.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+이걸 뭐에 비교해야 할까.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<실버라이닝 플레이북>이랑 돈키호테를 합친듯한?
+
+갸오오 패거리를 엑시터에 던져놓고 찍은 것 같은?
+
+뭐 아무튼 좀처럼 찾기 힘든 독특한 인물이 등장한다.
+
+분위기가 뭔가 익숙하다 싶었는데 <그랜드 부다페스트 호텔>의 그 감독이었다.
+
+코미디 드라마의 전형을 벗어나면서도 여전히 유쾌한 영화를 찾는다면 추천한다.

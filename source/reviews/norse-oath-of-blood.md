@@ -2,7 +2,6 @@
 title: "Norse: Oath of Blood"
 slug: "norse-oath-of-blood"
 date: "2026-02-20"
-order: "11"
 category: "GAME · 비추천"
 summary: "최적화 & 버그픽스 이전까지는 비추. 최적화 & 버그픽스 되더라도 할인가에만 추천."
 imagePosition: "50% 50%"

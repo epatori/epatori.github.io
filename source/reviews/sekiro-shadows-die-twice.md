@@ -1,10 +1,9 @@
 ---
 title: "Sekiro Shadows Die Twice"
 slug: "sekiro-shadows-die-twice"
-date: "2026-08-06"
-order: "39"
+date: "2022-03-10"
 category: "GAME · 추천"
-summary: "기존 소울즈라이크와는 전투 감각이 많이 다릅니다. 정확한 순간에 정확한 박자로 패링을 입력하는 것이 거의 전부라고 해도 될 만큼, 리듬과 타이밍이 핵심입니다. 회피와 빌드로 우회하기보다 정면에서 패턴을 익히고 받아쳐야 합니다."
+summary: "소울즈라이크의 새로운 지평"
 imagePosition: "50% 50%"
 ---
 

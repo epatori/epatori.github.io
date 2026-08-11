@@ -1,8 +1,7 @@
 ---
 title: "Titanic"
 slug: "titanic"
-date: "2026-08-07"
-order: "140"
+date: "1998-02-20"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

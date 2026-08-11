@@ -1,18 +1,15 @@
 ---
 title: "Middle Earth: Shadow of War"
 slug: "middle-earth-shadow-of-war"
-date: "2026-08-06"
-order: "25"
+date: "2017-12-06"
 category: "GAME · 비추"
-summary: "(1) 그래픽: - GTX 1080에서 최고 세팅으로 꾸준히 120 FPS 나옵니다. 얼마 전 출시된 어크 오리진과 같은 AAA 인데도 퀄 차이가 심합니다. 어크 오리진은 아무 것도 안 하고 풍경만 감상해도 만족스러운데 비해, 이 게임은 그래픽이 좀 지저…"
+summary: "액션 빼고는 진짜 별 거 없다. 구매하실 거면 할인을 기다리시길."
 imagePosition: "50% 50%"
 ---
 
 ![Middle Earth: Shadow of War 표지](images/shadow-of-war.jpg)
 
-**비추.**
-
-> 한줄평: 비추. 액션 빼고는 진짜 별 거 없다. 구매하실 거면 할인을 기다리시길.
+비추천.
 
 (1) 그래픽: -
 GTX 1080에서 최고 세팅으로 꾸준히 120 FPS 나옵니다.

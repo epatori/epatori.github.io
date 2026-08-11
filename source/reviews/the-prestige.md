@@ -1,7 +1,7 @@
 ---
 title: "The Prestige"
 slug: "the-prestige"
-date: "2026-08-07"
+date: "2009-07-30"
 order: "118"
 category: "FILM"
 media: "영화"

@@ -1,8 +1,7 @@
 ---
 title: "The Dark Knight Rises"
 slug: "the-dark-knight-rises"
-date: "2026-08-07"
-order: "117"
+date: "2012-07-19"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

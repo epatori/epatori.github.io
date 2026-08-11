@@ -1,18 +1,15 @@
 ---
 title: "Spellforce 3 Reforged"
 slug: "spellforce-3-reforged"
-date: "2026-08-06"
-order: "23"
+date: "2018-05-01"
 category: "GAME · 추천"
-summary: "(-) i7-6700K 4GHz에 GTX1080, 16GB Ram 사용 중이며 SSD에 설치했습니다. 프레임 끊기는 일은 없었고, 매번 맵을 바꿀 때마다 로딩이 체감상 약 10초 정도로 생각보다는 좀 오래 걸리는 편이었으며 (아무래도 맵이 방대하다보니 그…"
+summary: "RTS를 가장한 파밍형 Isometric RPG"
 imagePosition: "50% 50%"
 ---
 
 ![Spellforce 3 Reforged 표지](images/spellforce-3-reforged.jpg)
 
 **추천.**
-
-> 한줄평: RTS를 가장한 파밍형 Isometric RPG.
 
 ## 1. 사양 및 최적화
 

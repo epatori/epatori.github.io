@@ -1,10 +1,9 @@
 ---
 title: "The Witcher 3 Wild Hunt"
 slug: "the-witcher-3-wild-hunt"
-date: "2026-08-06"
-order: "33"
+date: "2015-05-30"
 category: "GAME · 강추"
-summary: "전투 시스템은 훌륭하고, 오픈월드는 방대합니다. 메인 스토리도 흥미롭지만, 무엇보다 선택이 실제 결과로 이어진다는 점이 좋습니다. 사이드 퀘스트조차 단순한 심부름으로 끝나지 않고 나름의 서사와 결말을 갖습니다. 궨트도 미니게임이라고 부르기 아까울 정도로…"
+summary: "게임의 역사를 바꾼 기념비적 작품"
 imagePosition: "50% 50%"
 ---
 

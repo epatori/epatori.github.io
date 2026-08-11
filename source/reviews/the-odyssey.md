@@ -1,8 +1,7 @@
 ---
 title: "The Odyssey"
 slug: "the-odyssey"
-date: "2026-08-07"
-order: "106"
+date: "2026-08-05"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

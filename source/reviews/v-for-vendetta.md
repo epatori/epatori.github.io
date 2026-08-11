@@ -1,8 +1,7 @@
 ---
 title: "V for Vendetta"
 slug: "v-for-vendetta"
-date: "2026-08-07"
-order: "163"
+date: "2010-03-23"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

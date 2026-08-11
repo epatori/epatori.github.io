@@ -1,8 +1,7 @@
 ---
 title: "The Godfather"
 slug: "the-godfather"
-date: "2026-08-07"
-order: "110"
+date: "2016-04-10"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

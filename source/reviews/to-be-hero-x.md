@@ -1,8 +1,7 @@
 ---
 title: "To Be Hero X"
 slug: "to-be-hero-x"
-date: "2026-08-07"
-order: "189"
+date: "2025-09-14"
 category: "ANIME"
 media: "애니"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

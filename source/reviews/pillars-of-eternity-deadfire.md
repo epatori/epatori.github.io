@@ -1,8 +1,7 @@
 ---
 title: "Pillars of Eternity Deadfire"
 slug: "pillars-of-eternity-deadfire"
-date: "2026-08-06"
-order: "22"
+date: "2018-05-27"
 category: "GAME · 강추"
 summary: "Obsidian 개발진이 꾸준히 손을 본 덕분에 Deadfire는 점점 더 좋아지고 정제되었습니다. 멀티클래스와 진영 정치극은 훌륭하지만, 에오타스를 쫓는 메인 서사는 플레이어를 지나치게 무력하게 만듭니다."
 imagePosition: "50% 50%"

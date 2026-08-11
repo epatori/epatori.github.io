@@ -1,8 +1,7 @@
 ---
 title: "Tales of Hongyuan"
 slug: "tales-of-hongyuan"
-date: "2026-08-06"
-order: "24"
+date: "2018-04-22"
 category: "GAME · 비추"
 summary: "번역부터 UI, 퀘스트 구성, 선택지와 스토리까지 어느 하나 제대로 다듬어진 부분이 없습니다. 특히 번역은 Tale of Wuxia보다도 심각합니다."
 imagePosition: "50% 50%"

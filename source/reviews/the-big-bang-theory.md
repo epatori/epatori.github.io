@@ -1,8 +1,7 @@
 ---
 title: "The Big Bang Theory"
 slug: "the-big-bang-theory"
-date: "2026-08-07"
-order: "56"
+date: "2019-05-16"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

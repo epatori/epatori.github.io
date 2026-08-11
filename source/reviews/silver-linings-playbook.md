@@ -1,8 +1,7 @@
 ---
 title: "Silver Linings Playbook"
 slug: "silver-linings-playbook"
-date: "2026-08-07"
-order: "150"
+date: "2015-12-01"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

@@ -1,8 +1,7 @@
 ---
 title: "Silicon Valley"
 slug: "silicon-valley"
-date: "2026-08-07"
-order: "66"
+date: "2019-12-08"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

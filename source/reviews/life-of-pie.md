@@ -1,7 +1,7 @@
 ---
-title: "Life of Pie"
-slug: "life-of-pie"
-date: "2026-08-07"
+title: "Life of Pi"
+slug: "life-of-pi"
+date: "2013-01-09"
 order: "111"
 category: "FILM"
 media: "영화"
@@ -9,7 +9,7 @@ summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 imagePosition: "50% 50%"
 ---
 
-![Life of Pie 표지](images/life-of-pie.jpg)
+![Life of Pi 표지](images/life-of-pi.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 

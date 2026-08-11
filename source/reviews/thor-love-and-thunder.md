@@ -1,8 +1,7 @@
 ---
 title: "Thor Love and Thunder"
 slug: "thor-love-and-thunder"
-date: "2026-08-07"
-order: "164"
+date: "2022-09-08"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

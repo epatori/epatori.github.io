@@ -1,8 +1,7 @@
 ---
 title: "Reacher"
 slug: "reacher"
-date: "2026-08-07"
-order: "54"
+date: "2026-05-17"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

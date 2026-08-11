@@ -1,8 +1,7 @@
 ---
 title: "Pathfinder Kingmaker Enhanced Edition"
 slug: "pathfinder-kingmaker-enhanced-edition"
-date: "2026-08-06"
-order: "21"
+date: "2024-01-22"
 category: "GAME · 강추"
 summary: "초기판을 망가뜨렸던 게임 진행 불가급 버그들은 대부분 수정됐고, 레벨 디자인도 개선됐습니다. 이제는 작품이 원래 갖고 있던 장점을 제대로 볼 수 있습니다."
 imagePosition: "50% 50%"

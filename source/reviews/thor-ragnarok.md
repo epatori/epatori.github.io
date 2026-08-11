@@ -1,8 +1,7 @@
 ---
 title: "Thor Ragnarok"
 slug: "thor-ragnarok"
-date: "2026-08-07"
-order: "166"
+date: "2018-02-21"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

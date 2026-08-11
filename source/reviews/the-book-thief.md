@@ -1,18 +1,14 @@
 ---
 title: "The Book Thief"
 slug: "the-book-thief"
-date: "2026-08-07"
-order: "133"
+date: "2015-04-20"
 category: "FILM"
 media: "영화"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "인간의 양면성을 담담히 그려낸다."
 imagePosition: "50% 50%"
 ---
 
 ![The Book Thief 표지](images/the-book-thief.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+죽음의 초월성만이 가질 수 있는 객관성의 서사로 인간의 양면성을 담담히 그려낸다.
+생각이 많아 잠 안 오는 새벽을 차분히 보낼 수 있는 영화.

@@ -1,8 +1,7 @@
 ---
 title: "Rise of the Ronin"
 slug: "rise-of-the-ronin"
-date: "2026-08-06"
-order: "42"
+date: "2024-08-11"
 category: "GAME · 강추"
 summary: "액션은 팀닌자 모든 게임의 정점이라고 생각한다. 적이 인간형뿐이라는 게 단점이라면 단점인데, 나는 괜찮았다. 모험이나 replayability는 상당히 떨어진다. NG+ 대신 미드나이트 난이도가 있긴한데, 접근성이 떨어지고 오픈월드가 스테이지처럼 바뀌어서…"
 imagePosition: "50% 50%"

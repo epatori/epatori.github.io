@@ -1,10 +1,9 @@
 ---
 title: "Zombie Army Trilogy"
 slug: "zombie-army-trilogy"
-date: "2026-08-06"
-order: "34"
+date: "2015-05-18"
 category: "GAME · 추천"
-summary: "저는 원래 좀비 게임을 별로 좋아하지 않습니다. 다만 Sniper Elite 시리즈를 재미있게 했기 때문에 시험 삼아 플레이했고, 예상보다 훨씬 즐겼습니다."
+summary: "본편만큼 재밌진 않다."
 imagePosition: "50% 50%"
 ---
 

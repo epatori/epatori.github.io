@@ -1,8 +1,7 @@
 ---
 title: "The Invention of Lying"
 slug: "the-invention-of-lying"
-date: "2026-08-07"
-order: "136"
+date: "2011-05-06"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

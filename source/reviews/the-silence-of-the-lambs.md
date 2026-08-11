@@ -1,8 +1,7 @@
 ---
 title: "The Silence of the Lambs"
 slug: "the-silence-of-the-lambs"
-date: "2026-08-07"
-order: "139"
+date: "2014-08-31"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

@@ -1,8 +1,7 @@
 ---
 title: "The Dark Knight"
 slug: "the-dark-knight"
-date: "2026-08-07"
-order: "116"
+date: "2009-07-08"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

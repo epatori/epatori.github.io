@@ -1,10 +1,9 @@
 ---
 title: "Wuchang Fallen Feathers"
 slug: "wuchang-fallen-feathers"
-date: "2026-02-10"
-order: "12"
+date: "2026-02-16"
 category: "GAME · 추천"
-summary: "만족합니다. RTX 3090. 4K fps 60정도 뽑습니다. 온도는 평균 75도로 높은 편입니다. 다만 프레임이 급락하는 구간이 곳곳에 있으며, 화면이 빠르게 돌아갈 때그래픽이 좀 심하게 뭉개집니다."
+summary: "무협과 소울즈라이크의 완벽한 조화"
 imagePosition: "50% 50%"
 ---
 

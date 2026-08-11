@@ -1,8 +1,7 @@
 ---
 title: "The Lion King"
 slug: "the-lion-king"
-date: "2026-08-07"
-order: "96"
+date: "2011-01-04"
 category: "MUSICAL"
 media: "뮤지컬"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

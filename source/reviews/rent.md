@@ -1,7 +1,7 @@
 ---
 title: "Rent"
 slug: "rent"
-date: "2026-08-07"
+date: "2014-10-31"
 order: "75"
 category: "MUSICAL"
 media: "뮤지컬"

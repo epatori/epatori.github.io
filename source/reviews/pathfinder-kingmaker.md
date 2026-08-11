@@ -1,8 +1,7 @@
 ---
 title: "Pathfinder Kingmaker"
 slug: "pathfinder-kingmaker"
-date: "2026-08-06"
-order: "20"
+date: "2018-10-06"
 category: "GAME · 비추천"
 summary: "이 게임 하지 마세요. 정신적으로 사람을 부숩니다. 스토리와 고전적인 CRPG 감성은 훌륭하지만, 버그와 불친절한 레벨 디자인이 그 모든 가능성을 박살냅니다."
 imagePosition: "50% 50%"

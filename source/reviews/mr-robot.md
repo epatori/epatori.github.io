@@ -1,8 +1,7 @@
 ---
 title: "Mr. Robot"
 slug: "mr-robot"
-date: "2026-08-07"
-order: "65"
+date: "2019-12-22"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

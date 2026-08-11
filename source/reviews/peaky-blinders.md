@@ -1,8 +1,7 @@
 ---
 title: "Peaky Blinders"
 slug: "peaky-blinders"
-date: "2026-08-07"
-order: "55"
+date: "2024-03-30"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

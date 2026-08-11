@@ -1,8 +1,7 @@
 ---
 title: "Project Hail Mary"
 slug: "project-hail-mary"
-date: "2026-08-07"
-order: "123"
+date: "2026-05-21"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

@@ -1,7 +1,7 @@
 ---
 title: "The Pianist"
 slug: "the-pianist"
-date: "2026-08-07"
+date: "2008-10-16"
 order: "114"
 category: "FILM"
 media: "영화"

@@ -1,18 +1,19 @@
 ---
 title: "Whiplash"
 slug: "whiplash"
-date: "2026-08-07"
-order: "103"
+date: "2015-03-21"
 category: "FILM"
 media: "영화"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "100분간 당신의 심장은 가차없이 채찍질당한다."
 imagePosition: "50% 50%"
 ---
 
 ![Whiplash 표지](images/whiplash.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+위플래쉬란 채찍질이다.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+100분간 당신의 심장은 가차없이 채찍질당한다.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+마지막 장면에서 당신의 심장은 폭발한다.
+
+영화가 끝난 후에도 심장은 쉬지 않고 뛸 것이다.

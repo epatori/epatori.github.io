@@ -1,8 +1,7 @@
 ---
 title: "Red Dead Redemption 2"
 slug: "red-dead-redemption-2"
-date: "2026-08-06"
-order: "44"
+date: "2025-06-29"
 category: "GAME · 강추"
 summary: "스토리도 처음부터 끝까지 훌륭하지만, 사실 메인 스토리를 밀지 않고 서부를 돌아다니기만 해도 재미있습니다. 풍경과 이동, 우연히 마주치는 상황들이 전부 같은 시대와 정서를 향해 있어서, 그냥 말 타고 다니는 시간조차 게임의 본편처럼 느껴집니다."
 imagePosition: "50% 50%"

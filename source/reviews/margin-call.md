@@ -1,8 +1,7 @@
 ---
 title: "Margin Call"
 slug: "margin-call"
-date: "2026-08-07"
-order: "165"
+date: "2025-11-15"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

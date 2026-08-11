@@ -1,18 +1,39 @@
 ---
 title: "Midnight in Paris"
 slug: "midnight-in-paris"
-date: "2026-08-07"
-order: "129"
+date: "2015-12-08"
 category: "FILM"
 media: "영화"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "벨에포크 역덕한테 잘 듣는 최음제."
 imagePosition: "50% 50%"
 ---
 
 ![Midnight in Paris 표지](images/midnight-in-paris.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+골든 에이지 신드롬에 사로잡힌 필자에게 딱인 영화였다.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+과거의 명사들이 대거 등장하는 장면은 그야말로 흐뭇했다.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+매력적인 코뿔소 성애자 달리 때문에 한참 웃었다.
+
+또 상남자 헤밍웨이가 필자가 상상하던 그 모습 그대로라서 기분 좋았다.
+
+1920년대를 동경하는 21세기 남자, 라 벨 에포크를 동경하는 20세기 여자, 르네상스를 동경하는 19세기 드가와 고갱.
+
+과거에 사는 여자와 그래도 현재를 택한 남자.
+
+내가 동경하는 과거도 과거의 누군가에겐 지겨운 현재고, 내가 지겨워하는 현재도 미래의 누군가에게는 동경하는 과거다.
+
+영화가 전하고자 하는 메세지는 비교적 뚜렷하지만, 뭐 어떤가.
+
+그럼에도 과거에 사는 여자처럼, 필자도 미련을 버리진 못하겠다.
+
+
+
+아이러니하게도 영화 자체의 매력 포인트는 현재보다 과거에 있다.
+
+<창문 넘어 도망친 100세 노인>의 감성을 프랑스 식으로 재구성한 역사 덕후 최음제라고 봐도 되겠다.
+
+
+
+참, 답 없는 로맨티스트 주인공에 공감할 수 밖에 없는 필자도 어쩔 수 없는 로맨티스트인가 보다.

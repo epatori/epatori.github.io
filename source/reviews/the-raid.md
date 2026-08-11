@@ -1,18 +1,31 @@
 ---
 title: "The Raid"
 slug: "the-raid"
-date: "2026-08-07"
-order: "148"
+date: "2016-09-05"
 category: "FILM"
 media: "영화"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "팝콘+콜라 필수"
 imagePosition: "50% 50%"
 ---
 
 ![The Raid 표지](images/the-raid.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+팝콘+콜라 필수.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+액션의 정수가 콤팩트하게 담긴 진짜배기다.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+스토리는 처음부터 감독 안중에도 없었다.
+
+그 공백을 살인무술 실랏이 가득 채워준다.
+
+실랏은 원빈 주연의 <아저씨>에도 나온 바 있다.
+
+헌데 진짜 무술가가 주연과 무술감독을 맡아서 그런지 이 영화에서 실랏의 깔끔함이 더 빛난다.
+
+진짜 효율적으로 사람 죽이는 게 어떤건지 잘 보여주는 듯 하다.
+
+단검 들고 관절 세 번 찌르며 타고 올라 마무리,
+
+복부 세 차례 베고 목 한 번.
+
+빠르고 정확하다 못해 기계적인 액션을 보고싶다면 강추!

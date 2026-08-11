@@ -1,8 +1,7 @@
 ---
 title: "Star Wars Jedi Fallen Order"
 slug: "star-wars-jedi-fallen-order"
-date: "2026-08-06"
-order: "19"
+date: "2019-12-11"
 category: "GAME · 추천"
 summary: "전체적으로 꽤 괜찮은 게임입니다. 크게 흠잡을 만한 부분 없이 무난하게 재미있고, Star Wars를 좋아한다면 더 쉽게 몰입할 수 있습니다."
 imagePosition: "50% 50%"

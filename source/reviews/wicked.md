@@ -1,18 +1,17 @@
 ---
 title: "Wicked"
 slug: "wicked"
-date: "2026-08-07"
-order: "82"
+date: "2015-01-20"
 category: "MUSICAL"
 media: "뮤지컬"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary: "브로드웨이라서 많이 기대했는데 실망만 하고 돌아왔다."
 imagePosition: "50% 50%"
 ---
 
 ![Wicked 표지](images/wicked.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+브로드웨이라서 많이 기대했는데 실망만 하고 돌아왔다.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+캐롤라인 보우맨의 엘파바는 평범하게 좋았는데, 티파니 하스의 글린다는 그야말로 엉망이었다. 정지 상태에서는 음정이 안정적이었지만 동선이 커질수록 음정이 굉장히 불안정했다. 체력이 부족한지 힘들어보이는 기색도 있었다. 춤이나 제스처 등 큰 동작 후에는 숨이 차서 대사가 목에 잠길 때도 있었다. 글린다의 의상 무게가 엄청나다는 사실은 익히 잘 알고 있으나, 다른 프로 글린다들이 꾹 참고 소화하는 것에 비하면 역시 스탠드바이구나 싶다. 애당초 글린다는 워낙 활동량이 엄청난 역인데 체력도, 폐활량도, 호흡 조절도, 움직이면서는 음정조차 조절이 잘 안 되면서 왜 글린다 역을 맡은건지. 덧붙여 고음은 오페라처럼 쩌렁 쩌렁 잘 퍼졌는데, 저음에서 너무 성량이 낮아졌다. 연기력도 좀 부족했다. 3시간 내내 정글린다가 너무 그리워서 참을 수 없었다.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+이렇게 쓰고보니 진짜 눈뜨고 보기 힘들 정도가 아닌가 싶지만 또 그건 아니었다. 맷 슁글데커의 피예로는 이지훈과 조상웅이 표현하지 못했던 인기 많고 잘 노는 10대 미국 남자애의 전형을 보여줬다. 캐롤라인 보우맨은 오리지널 캐스트인 이디나 멘젤과는 궤를 달리 하는 엘파바를 보여줬는데, 이디나 멘젤의 뛰어난 해석과 실력으로 고착화된 엘파바에 대한 고정관념을 조금이나마 깨뜨려 주었다. 무엇보다 극의 음질이 한국과 격을 달리 했다. 그게 거슈윈와 샤롯데의 극장 구조 차이에서 비롯된건지, 아니면 단순히 음향 시스템의 차이에서 비롯된건지는 모르지만 훨씬 소리가 라이브다웠다. 지금 생각해보니 어쩌면 단순히 필자의 좌석이 무대에 무지 가까웠기 때문일지도 모르겠다.

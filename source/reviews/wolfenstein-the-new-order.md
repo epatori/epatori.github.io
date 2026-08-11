@@ -1,8 +1,7 @@
 ---
 title: "Wolfenstein The New Order"
 slug: "wolfenstein-the-new-order"
-date: "2026-08-06"
-order: "29"
+date: "2015-08-29"
 category: "GAME · 추천"
 summary: "그래픽은 좋고, 이야기 자체도 나쁘지 않습니다. 기본 플롯과 캐릭터를 따라가는 재미가 있어서 전체적으로는 추천할 만합니다."
 imagePosition: "50% 50%"

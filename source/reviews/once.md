@@ -1,8 +1,7 @@
 ---
 title: "Once"
 slug: "once"
-date: "2026-08-07"
-order: "146"
+date: "2015-04-06"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

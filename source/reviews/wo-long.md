@@ -1,10 +1,9 @@
 ---
 title: "Wo Long"
 slug: "wo-long"
-date: "2026-08-06"
-order: "43"
+date: "2023-07-21"
 category: "GAME · 추천"
-summary: "액션은 Nioh 시리즈와 세부적으로 다르지만 지향점은 비슷합니다. 디아블로식 루팅을 섞은 세미 소울즈라이크입니다. 적을 상대하는 손맛과 장비를 갈아끼우는 재미를 동시에 노립니다."
+summary: "디아블로식 루팅을 섞은 소울즈라이크."
 imagePosition: "50% 50%"
 ---
 
