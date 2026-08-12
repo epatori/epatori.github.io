@@ -445,7 +445,7 @@ function buildCatalog(reviews) {
     href: `./${review.slug}/`,
     imagePrefix: '../',
   })).join('\n');
-  const currentPlayingSlugs = ['beast-of-reincarnation', 'dragons-dogma-2'];
+  const currentPlayingSlugs = ['black-myth-wukong', 'beast-of-reincarnation'];
   const currentPlayingCards = currentPlayingSlugs
     .map((slug) => reviews.find((review) => review.slug === slug))
     .filter(Boolean)

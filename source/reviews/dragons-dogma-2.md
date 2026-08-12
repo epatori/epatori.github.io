@@ -2,7 +2,7 @@
 title: "Dragon's Dogma 2"
 slug: "dragons-dogma-2"
 date: "2026-08-07"
-category: "GAME · PLAYING"
+category: "GAME · 추천"
 media: "게임"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 imagePosition: "50% 50%"

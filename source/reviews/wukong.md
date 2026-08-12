@@ -1,14 +1,14 @@
 ---
-title: "Beast of Reincarnation"
-slug: "beast-of-reincarnation"
-date: "2026-08-30"
+title: "Black Myth: Wukong"
+slug: "black-myth-wukong"
+date: "2026-08-11"
 category: "GAME · PLAYING"
 media: "게임"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 imagePosition: "50% 50%"
 ---
 
-![Beast of Reincarnation 표지](images/beast-of-reincarnation.jpg)
+![Black Myth Wukong 표지](images/wukong.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
