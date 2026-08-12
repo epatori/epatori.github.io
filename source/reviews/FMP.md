@@ -7,6 +7,6 @@ media: "애니"
 summary: "Lorem Ipsum"
 imagePosition: "50% 50%"
 ---
-![풀메탈패닉 표지](images/fmp.jpg)
+![풀메탈패닉 표지](images/FMP.jpg)
 
 Lorem Ipsum.

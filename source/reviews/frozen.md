@@ -7,6 +7,6 @@ media: "애니"
 summary: "Lorem Ipsum"
 imagePosition: "50% 50%"
 ---
-![프로즌 표지](images/frozen.jpg)
+![프로즌 표지](images/Frozen.jpg)
 
 Lorem Ipsum.
