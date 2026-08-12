@@ -7,6 +7,6 @@ media: "애니"
 summary: "Lorem Ipsum"
 imagePosition: "50% 50%"
 ---
-![참프루 표지](images/champloo.jpg)
+![참프루 표지](images/Champloo.jpg)
 
 Lorem Ipsum.
