@@ -203,13 +203,13 @@ function normalizeMedia(value = '') {
   const map = new Map([
     ['GAME', '게임'], ['게임', '게임'],
     ['ANIME', '애니'], ['애니', '애니'], ['애니메이션', '애니'],
-    ['WEBTOON', '웹툰'], ['웹툰', '웹툰'],
-    ['NOVEL', '웹소설'], ['WEB NOVEL', '웹소설'], ['WEBNOVEL', '웹소설'], ['소설', '웹소설'], ['웹소설', '웹소설'],
+    ['WEBTOON', '만화'], ['웹툰', '만화'],
+    ['NOVEL', '소설'], ['WEB NOVEL', '소설'], ['WEBNOVEL', '소설'], ['소설', '소설'], ['웹소설', '소설'],
     ['MANGA', '만화'], ['COMIC', '만화'], ['만화', '만화'],
     ['MOVIE', '영화'], ['FILM', '영화'], ['영화', '영화'],
-    ['DRAMA', '시리즈'], ['드라마', '시리즈'],
-    ['NETFLIX', '시리즈'], ['넷플릭스', '시리즈'],
-    ['SERIES', '시리즈'], ['TV', '시리즈'], ['시리즈', '시리즈'],
+    ['DRAMA', '드라마'], ['드라마', '드라마'],
+    ['NETFLIX', '드라마'], ['넷플릭스', '드라마'],
+    ['SERIES', '드라마'], ['TV', '드라마'], ['시리즈', '드라마'],
     ['MUSICAL', '뮤지컬'], ['뮤지컬', '뮤지컬'],
     ['THEATER', '연극'], ['PLAY', '연극'], ['연극', '연극'],
     ['TRAVEL', '여행'], ['여행', '여행'],
@@ -328,7 +328,7 @@ function card(review, { href, imagePrefix, compact = false, current = false }) {
       <img src="${imagePrefix}${escapeHtml(review.thumbnailSrc || review.image.src)}" alt="${escapeHtml(review.image.alt)}" loading="lazy" draggable="false" style="object-position:${escapeHtml(review.imagePosition)}">
     </div>
     <div class="card-copy">
-      <p class="eyebrow">${escapeHtml(review.category)} · ${escapeHtml(formatDate(review.date))}</p>
+      <p class="eyebrow">${escapeHtml(review.media)} · ${escapeHtml(formatDate(review.date))}</p>
       <h2>${escapeHtml(review.title)}</h2>
       ${!compact && review.summary ? `<p class="summary">${escapeHtml(review.summary)}</p>` : ''}
     </div>
@@ -341,7 +341,7 @@ function currentlyPlayingCard(review) {
       <img src="../${escapeHtml(review.thumbnailSrc || review.image.src)}" alt="${escapeHtml(review.image.alt)}" loading="eager" draggable="false" style="object-position:${escapeHtml(review.imagePosition)}">
     </div>
     <div class="currently-playing-copy">
-      <p class="eyebrow">${escapeHtml(review.category)}</p>
+      <p class="eyebrow">${escapeHtml(review.media)}</p>
       <h2>${escapeHtml(review.title)}</h2>
     </div>
   </a>`;
@@ -445,13 +445,13 @@ function buildCatalog(reviews) {
     href: `./${review.slug}/`,
     imagePrefix: '../',
   })).join('\n');
-  const currentPlayingSlugs = ['black-myth-wukong', 'beast-of-reincarnation'];
+  const currentPlayingSlugs = ['beast-of-reincarnation', 'black-myth-wukong'];
   const currentPlayingCards = currentPlayingSlugs
     .map((slug) => reviews.find((review) => review.slug === slug))
     .filter(Boolean)
     .map(currentlyPlayingCard)
     .join('\n');
-  const filters = ['모두보기', '애니', '웹툰', '게임', '웹소설', '만화', '영화', '시리즈', '뮤지컬', '연극', '여행']
+  const filters = ['모두보기', '게임', '소설', '만화', '영화', '애니', '드라마', '뮤지컬', '연극', '여행']
     .map((label, index) => `<button type="button" class="filter-button${index === 0 ? ' is-active' : ''}" data-filter="${escapeHtml(label)}" aria-pressed="${index === 0 ? 'true' : 'false'}">${escapeHtml(label)}</button>`)
     .join('');
   const body = `<main class="catalog">
@@ -510,7 +510,7 @@ function buildArticle(review, reviews) {
     </section>
     <article class="paper">
       <header class="article-header">
-        <p class="article-meta">${escapeHtml(review.category)} · ${escapeHtml(formatDate(review.date, true))}</p>
+        <p class="article-meta">${escapeHtml(review.media)} · ${escapeHtml(formatDate(review.date, true))}</p>
         <h1>${escapeHtml(review.title)}</h1>
         ${review.summary ? `<p class="deck">${escapeHtml(review.summary)}</p>` : ''}
       </header>
