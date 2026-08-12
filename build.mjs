@@ -1,11 +1,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import sharp from 'sharp';
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 const sourceRoot = path.join(projectRoot, 'source');
 const outputRoot = path.join(projectRoot, 'site');
 const reviewRoot = path.join(sourceRoot, 'reviews');
+const thumbnailRoot = path.join(outputRoot, 'thumbnails');
 const config = JSON.parse(fs.readFileSync(path.join(projectRoot, 'site.config.json'), 'utf8'));
 const siteName = String(config.name || 'Pensive');
 const siteTagline = '오덕겜창의 리뷰공간';
@@ -238,6 +240,7 @@ function readReviews() {
         summary: data.summary || '',
         imagePosition: data.imagePosition || '50% 50%',
         image,
+        thumbnailSrc: image.src,
       };
     })
     .sort((a, b) => new Date(b.date) - new Date(a.date));
@@ -322,7 +325,7 @@ function card(review, { href, imagePrefix, compact = false, current = false }) {
   const currentAttr = current ? ' aria-current="page" data-current-card' : '';
   return `<${tag} class="review-card${compact ? ' compact' : ''}${current ? ' current' : ''}" data-media-category="${escapeHtml(review.media)}"${hrefAttr}${currentAttr}>
     <div class="image-frame">
-      <img src="${imagePrefix}${escapeHtml(review.image.src)}" alt="${escapeHtml(review.image.alt)}" loading="lazy" draggable="false" style="object-position:${escapeHtml(review.imagePosition)}">
+      <img src="${imagePrefix}${escapeHtml(review.thumbnailSrc || review.image.src)}" alt="${escapeHtml(review.image.alt)}" loading="lazy" draggable="false" style="object-position:${escapeHtml(review.imagePosition)}">
     </div>
     <div class="card-copy">
       <p class="eyebrow">${escapeHtml(review.category)} · ${escapeHtml(formatDate(review.date))}</p>
@@ -335,7 +338,7 @@ function card(review, { href, imagePrefix, compact = false, current = false }) {
 function currentlyPlayingCard(review) {
   return `<a class="currently-playing-card" href="./${review.slug}/">
     <div class="currently-playing-frame">
-      <img src="../${escapeHtml(review.image.src)}" alt="${escapeHtml(review.image.alt)}" loading="eager" draggable="false" style="object-position:${escapeHtml(review.imagePosition)}">
+      <img src="../${escapeHtml(review.thumbnailSrc || review.image.src)}" alt="${escapeHtml(review.image.alt)}" loading="eager" draggable="false" style="object-position:${escapeHtml(review.imagePosition)}">
     </div>
     <div class="currently-playing-copy">
       <p class="eyebrow">${escapeHtml(review.category)}</p>
@@ -360,6 +363,49 @@ function ensureCleanOutput() {
   fs.cpSync(path.join(sourceRoot, 'images'), path.join(outputRoot, 'images'), { recursive: true });
   const favicon = path.join(sourceRoot, 'favicon.png');
   if (fs.existsSync(favicon)) fs.copyFileSync(favicon, path.join(outputRoot, 'favicon.png'));
+}
+
+async function buildThumbnails(reviews) {
+  fs.mkdirSync(thumbnailRoot, { recursive: true });
+
+  for (const review of reviews) {
+    const src = review.image.src;
+
+    // 외부 이미지라면 건드리지 않고 원본 URL 사용
+    if (/^(https?:|data:)/.test(src)) {
+      review.thumbnailSrc = src;
+      continue;
+    }
+
+    const inputPath = path.join(sourceRoot, src);
+
+    if (!fs.existsSync(inputPath)) {
+      console.warn(`Thumbnail source not found: ${inputPath}`);
+      review.thumbnailSrc = src;
+      continue;
+    }
+
+    const outputName = `${review.slug}.webp`;
+    const outputPath = path.join(thumbnailRoot, outputName);
+
+    try {
+      await sharp(inputPath)
+        .rotate()
+        .resize({
+          width: 640,
+          withoutEnlargement: true,
+        })
+        .webp({
+          quality: 80,
+        })
+        .toFile(outputPath);
+
+      review.thumbnailSrc = `thumbnails/${outputName}`;
+    } catch (error) {
+      console.warn(`Could not create thumbnail for ${review.title}:`, error);
+      review.thumbnailSrc = src;
+    }
+  }
 }
 
 function buildLanding(reviews) {
@@ -572,9 +618,11 @@ Sitemap: ${absoluteUrl('sitemap.xml')}
 
 ensureCleanOutput();
 const reviews = readReviews();
+await buildThumbnails(reviews);
 buildLanding(reviews);
 buildCatalog(reviews);
 for (const review of reviews) buildArticle(review, reviews);
 buildSeoFiles(reviews);
+
 fs.writeFileSync(path.join(outputRoot, '.nojekyll'), '', 'utf8');
 console.log(`Built ${reviews.length} reviews into: ${outputRoot}`);

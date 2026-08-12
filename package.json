@@ -6,5 +6,8 @@
   "scripts": {
     "dev": "node preview.mjs",
     "build": "node build.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.35.3"
   }
 }
