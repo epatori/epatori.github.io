@@ -1,7 +1,7 @@
 ---
 title: "Mad Men"
 slug: "mad-men"
-date: "2026-08-11"
+date: "2015-05-24"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

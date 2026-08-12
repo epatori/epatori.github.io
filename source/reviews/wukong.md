@@ -1,7 +1,7 @@
 ---
 title: "Black Myth: Wukong"
 slug: "black-myth-wukong"
-date: "2026-08-11"
+date: "2026-08-17"
 category: "GAME · PLAYING"
 media: "게임"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

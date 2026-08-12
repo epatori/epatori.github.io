@@ -1,7 +1,7 @@
 ---
 title: "Oppenheimer"
 slug: "oppenheimer"
-date: "2026-08-11"
+date: "2023-08-21"
 category: "FILM"
 media: "영화"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
