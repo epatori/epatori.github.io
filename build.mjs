@@ -451,7 +451,7 @@ function buildCatalog(reviews) {
     .filter(Boolean)
     .map(currentlyPlayingCard)
     .join('\n');
-  const filters = ['모두보기', '게임', '소설', '만화', '영화', '애니', '드라마', '뮤지컬', '연극', '여행']
+  const filters = ['모두보기', '게임', '소설', '만화', '영화', '애니', '드라마', '뮤지컬', '여행']
     .map((label, index) => `<button type="button" class="filter-button${index === 0 ? ' is-active' : ''}" data-filter="${escapeHtml(label)}" aria-pressed="${index === 0 ? 'true' : 'false'}">${escapeHtml(label)}</button>`)
     .join('');
   const body = `<main class="catalog">
