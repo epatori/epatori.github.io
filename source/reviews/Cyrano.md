@@ -1,6 +1,6 @@
 ---
 title: "Cyrano de Bergerac"
-slug: "soulfish"
+slug: "cyrano"
 date: "2009-10-01"
 category: "NOVEL"
 media: "희곡"
