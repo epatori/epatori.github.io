@@ -1,7 +1,7 @@
 ---
 title: "House of the Dragon"
 slug: "house-of-the-dragon"
-date: "2026-08-10"
+date: "2026-08-21"
 category: "SERIES"
 media: "시리즈"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

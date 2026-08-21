@@ -1,7 +1,7 @@
 ---
 title: "Monster"
 slug: "tomo"
-date: "2026-08-19"
+date: "2025-12-19"
 category: "만화"
 media: "만화"
 summary: "Lorem Ipsum"

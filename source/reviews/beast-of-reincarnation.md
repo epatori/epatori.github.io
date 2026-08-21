@@ -1,7 +1,7 @@
 ---
 title: "Beast of Reincarnation"
 slug: "beast-of-reincarnation"
-date: "2026-08-30"
+date: "2026-08-04"
 category: "GAME · PLAYING"
 media: "게임"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
