@@ -335,18 +335,6 @@ function card(review, { href, imagePrefix, compact = false, current = false }) {
   </${tag}>`;
 }
 
-function currentlyPlayingCard(review) {
-  return `<a class="currently-playing-card" href="./${review.slug}/">
-    <div class="currently-playing-frame">
-      <img src="../${escapeHtml(review.thumbnailSrc || review.image.src)}" alt="${escapeHtml(review.image.alt)}" loading="eager" draggable="false" style="object-position:${escapeHtml(review.imagePosition)}">
-    </div>
-    <div class="currently-playing-copy">
-      <p class="eyebrow">${escapeHtml(review.media)}</p>
-      <h2>${escapeHtml(review.title)}</h2>
-    </div>
-  </a>`;
-}
-
 function footer() {
   const current = new Date().getFullYear();
   const range = current > config.startYear ? `${config.startYear}–${current}` : String(config.startYear);
@@ -449,7 +437,6 @@ function buildCatalog(reviews) {
   const currentPlayingCards = currentPlayingSlugs
     .map((slug) => reviews.find((review) => review.slug === slug))
     .filter(Boolean)
-    .map(currentlyPlayingCard)
     .join('\n');
   const filters = ['모두보기', '게임', '소설', '만화', '영화', '애니', '드라마', '뮤지컬', '여행']
     .map((label, index) => `<button type="button" class="filter-button${index === 0 ? ' is-active' : ''}" data-filter="${escapeHtml(label)}" aria-pressed="${index === 0 ? 'true' : 'false'}">${escapeHtml(label)}</button>`)
@@ -461,10 +448,6 @@ function buildCatalog(reviews) {
       <p class="intro">${escapeHtml(siteTagline)}</p>
       <nav class="filter-bar" aria-label="매체별 리뷰 필터">${filters}</nav>
     </header>
-    <section class="currently-playing" aria-labelledby="currently-playing-title">
-      <p class="currently-playing-title" id="currently-playing-title">Currently Playing:</p>
-      <div class="currently-playing-grid">${currentPlayingCards}</div>
-    </section>
     <section class="review-grid" aria-label="리뷰 목록" data-review-grid>${cards}</section>
     <nav class="pagination" data-pagination aria-label="리뷰 페이지" hidden></nav>
     <p class="filter-empty" data-filter-empty hidden>아직 이 분류에 들어갈 기록이 없습니다.</p>

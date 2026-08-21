@@ -181,20 +181,6 @@ a.review-card:hover img { transform:scale(1.035); opacity:.78; filter:saturate(.
 .review-card h2 { margin:0; font-size:clamp(1rem,2.8vw,1.32rem); font-weight:560; line-height:1.34; word-break:keep-all; }
 .summary { display:-webkit-box; margin:10px 0 0; overflow:hidden; color:#a9adba; font-size:.86rem; line-height:1.55; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
 
-/* Currently Playing */
-.currently-playing { max-width:980px; margin:0 auto 68px; }
-.currently-playing-title { margin:0 0 16px; color:#b5b9c4; font-family:ui-serif, Georgia, "Noto Serif KR", serif; font-size:clamp(1.05rem,2.5vw,1.35rem); letter-spacing:.01em; }
-.currently-playing-grid { display:grid; grid-template-columns:1fr; gap:24px; }
-.currently-playing-card { display:block; min-width:0; color:inherit; text-decoration:none; transition:transform 180ms ease; }
-.currently-playing-card:hover, .currently-playing-card:focus-visible { transform:translateY(-3px); }
-.currently-playing-card:focus-visible { outline:2px solid rgba(255,255,255,.8); outline-offset:5px; }
-.currently-playing-frame { position:relative; overflow:hidden; aspect-ratio:460/215; background:var(--night-soft); isolation:isolate; }
-.currently-playing-frame::after { content:""; position:absolute; z-index:1; inset:0; pointer-events:none; background:linear-gradient(to top,rgba(4,5,8,.62) 0%,rgba(4,5,8,.10) 58%,rgba(4,5,8,.20) 100%); }
-.currently-playing-frame img { width:100%; height:100%; object-fit:cover; opacity:.72; filter:saturate(.84) contrast(1.04); transition:transform 500ms ease,opacity 300ms ease,filter 300ms ease; }
-.currently-playing-card:hover img, .currently-playing-card:focus-visible img { transform:scale(1.025); opacity:.9; filter:saturate(.98) contrast(1.05); }
-.currently-playing-copy { padding:12px 2px 0; }
-.currently-playing-copy h2 { margin:0; font-size:clamp(1.05rem,2.8vw,1.28rem); font-weight:560; line-height:1.3; word-break:keep-all; }
-
 /* Article */
 .article-page { background:var(--night); }
 .hero-shell { position:relative; height:72svh; min-height:440px; background:var(--night); overflow:hidden; }
@@ -238,8 +224,6 @@ a.review-card:hover img { transform:scale(1.035); opacity:.78; filter:saturate(.
   .site-footer { padding-bottom:56px; }
   .catalog { padding:72px 40px 130px; }
   .catalog-heading { margin-bottom:72px; }
-  .currently-playing { margin-bottom:92px; }
-  .currently-playing-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:22px; }
   .review-grid { grid-template-columns:repeat(3,minmax(0,1fr)); gap:54px 22px; }
   .hero-shell, .hero { height:80vh; min-height:560px; }
   .back-link { top:34px; left:40px; }
