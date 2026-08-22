@@ -1,7 +1,7 @@
 ---
 title: "Middle Earth: Shadow of War"
 slug: "middle-earth-shadow-of-war"
-date: "2017-12-06"
+date: "2020-04-13"
 category: "GAME · 비추"
 summary: "액션 빼고는 진짜 별 거 없다. 구매하실 거면 할인을 기다리시길."
 imagePosition: "50% 50%"
